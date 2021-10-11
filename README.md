@@ -1,6 +1,6 @@
 ## About me
 
-Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of Laurent Simon and Nathanaël Fijalkow.
+Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) and [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/).
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 majoring in AI.
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also visit me in my office (number 325) in [LaBRI][LABRI].
