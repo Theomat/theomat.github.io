@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Théo Matricon
 
-You can use the [editor on GitHub](https://github.com/Theomat/theomat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of Laurent Simon and Nathanaël Fijalkow.
+I graduated from ENSEIRB-MATMECA in September 2021 majorining in IA.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also visit me in my office (number 325) in [LaBRI][LABRI].
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## News
 
-- Bulleted
-- List
+- October 28, 29: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS]
+- October 2021: Now a PhD student at [LaBRI][LABRI].
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Research
 
-[Link](url) and ![Image](src)
-```
+I am interested in reinforcement learning, deep learning, program synthesis or any other cool subject.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Papers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Theomat/theomat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Conference
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Title | Authors | Conference | Paper | Code |
+|-------|---------|------------|-------|------|
+|Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent SImon, Holger H. Hoos | [CP 2021][CP21] | soon | [code][PSEAS] |
+
+
+
+## Talks
+
+| Title | Where | Slides | Notes |
+|-------|-------|--------|-------|
+| Statistical Comparison of Algorithm Performance Through Instance Selection | [CP 2021][CP21] | soon | Official talk for the conference |
+
+
+
+## Teaching
+
+| Subject | Where | Role |  Level | Year | Hours | Page |
+|---------|-------|------|--------|------|-------|------|
+| Programmation Impérative | [ENSEIRB-MATMECA][ENSEIRB] | TA | BSC 3 | 2021 | 12h00 | [here](https://www.labri.fr/perso/fmoranda/pg101/) |
+| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | T | MSC 2 | 2021 | 14h40 | none |
+| Reinforcement Learning | [ENSEIRB-MATMECA][ENSEIRB] | TA | MSC 2 | 2021 | 6h | none |
+| Reinforcement Learning  Summer School | [Alain Turing Institute][TUR] | TA | MSC 2 | 2021 | 6h | none |
+
+[ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
+[LABRI]: https://www.labri.fr/
+[TUR]: https://www.turing.ac.uk/
+[CP21]: https://cp2021.a4cp.org/
+[PSEAS]: https://github.com/Theomat/PSEAS
