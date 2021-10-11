@@ -37,7 +37,7 @@ I am interested in reinforcement learning, deep learning, program synthesis or a
 
 | Title | Where | Slides | Notes |
 |-------|-------|--------|-------|
-| Statistical Comparison of Algorithm Performance Through Instance Selection | [CP 2021][CP21] | soon | Official talk for the conference |
+| Statistical Comparison of Algorithm Performance Through Instance Selection | [CP 2021][CP21] | [slides](./slides/cp2021.pdf) | Official talk for the conference |
 
 
 
