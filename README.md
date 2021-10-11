@@ -1,29 +1,20 @@
-# Théo Matricon
-
 ## About me
 
 Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of Laurent Simon and Nathanaël Fijalkow.
-I graduated from ENSEIRB-MATMECA in September 2021 majorining in IA.
-
+I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 majoring in AI.
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also visit me in my office (number 325) in [LaBRI][LABRI].
-
----
 
 ## News
 
 - October 28, 29: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS]
 - October 2021: Now a PhD student at [LaBRI][LABRI].
 
----
-
 ## Research
 
 I am interested in reinforcement learning, deep learning, program synthesis or any other cool subject.
 
-
 ## Papers
-
 
 ### Conference
 
@@ -31,15 +22,11 @@ I am interested in reinforcement learning, deep learning, program synthesis or a
 |-------|---------|------------|-------|------|
 |Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent SImon, Holger H. Hoos | [CP 2021][CP21] | soon | [code][PSEAS] |
 
-
-
 ## Talks
 
 | Title | Where | Slides | Notes |
 |-------|-------|--------|-------|
 | Statistical Comparison of Algorithm Performance Through Instance Selection | [CP 2021][CP21] | [slides](./slides/cp2021.pdf) | Official talk for the conference |
-
-
 
 ## Teaching
 
