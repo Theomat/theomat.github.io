@@ -6,6 +6,10 @@ You will be in teams of **two**.
 
 Here is a short presentation as a **5min read**, additional details of what is to be done are present at the end.
 
+**For those that did the Go project last year**, this is very different in the sense that what you did last year was pre-2000 ideas. Here we are working with actual state of the art methods and ideas, the only things you will reuse from your second year are some ideas and the knowledge of the Goban API.
+
+**For those that did not do the Go project last year**, everything will be explained from the start, you do not need to come with specific knowledge. Furthermore, this project is very different in the methods and techniques used, so except from some familiarity with the code or some ideas this will also be entirely new to the students that did the Go project last year.
+
 ## Why choose AlphaGo as a project?
 
 We will tackle this problem from an engineering perspective of having a problem to solve.
