@@ -54,10 +54,9 @@ We will have 14h40 of courses to explore the subject, expect the first few hours
 Note that this is a project and working only in class will **not** be enough.
 
 Milestones:
-
-1) Write a functional random MCTS player in Go.
-2) Train a NN on human games and guide the MCTS with your NN.
-3) Add the RL training.
+1. Write a functional random MCTS player in Go.
+2. Train a NN on human games and guide the MCTS with your NN.
+3. Add the RL training.
 
 You will hand in the code along with a README explaining what you have done and your choices.
 
