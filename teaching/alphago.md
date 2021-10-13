@@ -6,6 +6,18 @@ You will be in teams of **two**.
 
 Here is a short presentation as a **5min read**, additional details of what is to be done are present at the end.
 
+## Why choose AlphaGo as a project?
+
+We will tackle this problem from an engineering perspective of having a problem to solve.
+We will implement the solution ourselves from **end-to-end**.
+As such this is very close to a R&D situation in a company.
+
+This is a nice item on your resume because everybody in the field knows about it, it's one of the biggest milestone of AI in the last 5 years.
+
+**All of the necessary concepts will be seen and studied in class.**
+This will increase your mastery of RL, MCTS and supervised learning.
+And finally it will help you master PyTorch if that is not already the case.
+
 ## So what is Go?
 
 ![go board](https://cdn.vox-cdn.com/thumbor/M2Oq9r-N4DM4TQEosAHTGzAtcIg=/0x0:2500x1667/1280x854/cdn.vox-cdn.com/uploads/chorus_image/image/49020255/akrales_160307_0970_a_0127.0.0.png)
@@ -54,19 +66,12 @@ We will have 14h40 of courses to explore the subject, expect the first few hours
 Note that this is a project and working only in class will **not** be enough.
 
 Milestones:
+
 1. Write a functional random MCTS player in Go.
 2. Train a NN on human games and guide the MCTS with your NN.
 3. Add the RL training.
 
 You will hand in the code along with a README explaining what you have done and your choices.
-
-## Why choose Go?
-
-We will tackle this problem from an engineering perspective of having a problem to solve.
-We will implement the solution ourselves from end-to-end.
-As such this is very close to a R&D situation in a company.
-This will increase your mastery of RL, MCTS and supervised learning.
-And finally it will help you master PyTorch if that is not already the case.
 
 ## References and resources
 
