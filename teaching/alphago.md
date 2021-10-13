@@ -14,7 +14,7 @@ Simple rules:
 
 - place a stone at each turn
 - control as much territory as possible
--enclosed stones are captured
+- enclosed stones are captured
 
 Additional data:
 
@@ -65,6 +65,9 @@ You will hand in the code along with a README explaining what you have done and 
 
 We will tackle this problem from an engineering perspective of having a problem to solve.
 We will implement the solution ourselves from end-to-end.
+As such this is very close to a R&D situation in a company.
+This will increase your mastery of RL, MCTS and supervised learning.
+And finally it will help you master PyTorch if that is not already the case.
 
 ## References and resources
 
