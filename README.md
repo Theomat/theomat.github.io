@@ -22,7 +22,7 @@ I am interested in reinforcement learning, program synthesis or any other cool s
 
 | Title | Authors | Conference | Links |
 |-------|---------|------------|-------|
-|Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent Simon, Holger H. Hoos | [CP 2021][CP21] | [paper](./papers/pseas.pdf), [code][PSEAS], [slides](./slides/cp2021.pdf) |
+|Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent Simon, Holger H. Hoos | [CP 2021][CP21] | [paper][PSEAS-paper], [code][PSEAS-code], [slides](./slides/cp2021.pdf) |
 
 ## Talks
 
@@ -45,4 +45,5 @@ TD = exercise sessions
 [LABRI]: https://www.labri.fr/
 [TUR]: https://www.turing.ac.uk/
 [CP21]: https://cp2021.a4cp.org/
-[PSEAS]: https://github.com/Theomat/PSEAS
+[PSEAS-paper]: https://doi.org/10.4230/LIPIcs.CP.2021.43
+[PSEAS-code]: https://github.com/Theomat/PSEAS
