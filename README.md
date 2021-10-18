@@ -36,7 +36,7 @@ TD = exercise sessions
 
 | Subject | Where | Role |  Level | Year | Hours | Page |
 |---------|-------|------|--------|------|-------|------|
-| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | T | MSC 2 | Oct. - Jan. 2021 | 14h40 | none |
+| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | T | MSC 2 | Oct. - Jan. 2021 | 14h40 | [short presentation for students](./teaching/alphago) |
 | Reinforcement Learning | [ENSEIRB-MATMECA][ENSEIRB] | TD | MSC 2 | Nov. - Dec. 2021 | 6h | none |
 | Programmation Impérative (FR) | [ENSEIRB-MATMECA][ENSEIRB] | TD | BSC 3 | Oct. 2021 | 12h00 | [here](https://www.labri.fr/perso/fmoranda/pg101/) |
 | Reinforcement Learning  Summer School | [Alan Turing Institute][TUR] | TD | MSC 2 | Jun. 2021 | 6h | none |
