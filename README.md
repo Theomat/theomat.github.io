@@ -7,7 +7,7 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also
 
 ## News
 
-- October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS] see the [trailer](https://www.youtube.com/watch?v=FfzLfOYffs4) or the [schedule](https://cp2021.lirmm.fr/submissions/23)
+- October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper] see the [trailer](https://www.youtube.com/watch?v=FfzLfOYffs4) or the [schedule](https://cp2021.lirmm.fr/submissions/23)
 - October 27: Will give a talk about our CP 2021 paper at SemiDoc in [LaBRI][LABRI].
 - October 2021: Now a PhD student at [LaBRI][LABRI].
 - September 2021: Graduated from [ENSEIRB-MATMECA][ENSEIRB] with a major in AI.
