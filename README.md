@@ -14,7 +14,11 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also
 
 ## Research
 
-I am interested in reinforcement learning, program synthesis or any other cool subject.
+I am mainly interested in:
+
+- Reinforcement Learning
+- Program Synthesis
+- AI related subjects
 
 ## Papers
 
@@ -22,6 +26,7 @@ I am interested in reinforcement learning, program synthesis or any other cool s
 
 | Title | Authors | Conference | Links |
 |-------|---------|------------|-------|
+|Scaling Neural Program Synthesis with Distribution-based Search | Nathanaël Fijalkow, Guillaume Lagarde, **Théo Matricon**, Kevin Ellis, Pierre Ohlmann, Akarsh Potta | under review | [arxiv][DeepSynth-arxiv], [code][DeepSynth-code]|
 |Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent Simon, Holger H. Hoos | [CP 2021][CP21] | [paper][PSEAS-paper], [code][PSEAS-code], [slides](./slides/cp2021.pdf) |
 
 ## Talks
@@ -32,14 +37,16 @@ I am interested in reinforcement learning, program synthesis or any other cool s
 
 ## Teaching
 
-TD = exercise sessions
+- C  = course
+- CE = course + exercise sessions
+- E  = exercise sessions
 
 | Subject | Where | Role |  Level | Year | Hours | Page |
 |---------|-------|------|--------|------|-------|------|
-| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | T | MSC 2 | Oct. - Jan. 2021 | 14h40 | [short presentation for students](./teaching/alphago) |
-| Reinforcement Learning | [ENSEIRB-MATMECA][ENSEIRB] | TD | MSC 2 | Nov. - Dec. 2021 | 6h | none |
-| Programmation Impérative (FR) | [ENSEIRB-MATMECA][ENSEIRB] | TD | BSC 3 | Oct. 2021 | 12h00 | [here](https://www.labri.fr/perso/fmoranda/pg101/) |
-| Reinforcement Learning  Summer School | [Alan Turing Institute][TUR] | TD | MSC 2 | Jun. 2021 | 6h | none |
+| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | C | MSC 2 | Oct. - Jan. 2021 | 14h40 | [short presentation for students](./teaching/alphago) |
+| Reinforcement Learning | [ENSEIRB-MATMECA][ENSEIRB] | E | MSC 2 | Nov. - Dec. 2021 | 6h | none |
+| Programmation Impérative (FR) | [ENSEIRB-MATMECA][ENSEIRB] | E | BSC 3 | Oct. 2021 | 12h00 | [here](https://www.labri.fr/perso/fmoranda/pg101/) |
+| Reinforcement Learning  Summer School | [Alan Turing Institute][TUR] | E | MSC 2 | Jun. 2021 | 6h | none |
 
 [ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
 [LABRI]: https://www.labri.fr/
@@ -47,3 +54,5 @@ TD = exercise sessions
 [CP21]: https://cp2021.a4cp.org/
 [PSEAS-paper]: https://doi.org/10.4230/LIPIcs.CP.2021.43
 [PSEAS-code]: https://github.com/Theomat/PSEAS
+[DeepSynth-arxiv]: https://arxiv.org/abs/2110.12485
+[DeepSynth-code]: https://github.com/nathanael-fijalkow/DeepSynth/
