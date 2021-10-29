@@ -27,13 +27,13 @@ I am mainly interested in:
 | Title | Authors | Conference | Links |
 |-------|---------|------------|-------|
 |Scaling Neural Program Synthesis with Distribution-based Search | Nathanaël Fijalkow, Guillaume Lagarde, **Théo Matricon**, Kevin Ellis, Pierre Ohlmann, Akarsh Potta | under review | [arxiv][DeepSynth-arxiv], [code][DeepSynth-code]|
-|Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent Simon, Holger H. Hoos | [CP 2021][CP21] | [paper][PSEAS-paper], [code][PSEAS-code], [slides](./slides/cp2021.pdf) |
+|Statistical Comparison of Algorithm Performance Through Instance Selection | **Théo Matricon**, Marie Anastacio, Nathanaël Fijalkow, Laurent Simon, Holger H. Hoos | [CP 2021][CP21] | [paper][PSEAS-paper], [code][PSEAS-code], [slides](./slides/cp2021.pdf), [recorded talk][PSEAS-video] |
 
 ## Talks
 
 | Title | Where | Slides | Notes |
 |-------|-------|--------|-------|
-| Statistical Comparison of Algorithm Performance Through Instance Selection | [CP 2021][CP21], SemiDoc | [slides](./slides/cp2021.pdf) | link to the recorded talk soon |
+| Statistical Comparison of Algorithm Performance Through Instance Selection | [CP 2021][CP21], SemiDoc | [slides](./slides/cp2021.pdf) | [recorded talk][PSEAS-video] |
 
 ## Teaching
 
@@ -54,5 +54,6 @@ I am mainly interested in:
 [CP21]: https://cp2021.a4cp.org/
 [PSEAS-paper]: https://doi.org/10.4230/LIPIcs.CP.2021.43
 [PSEAS-code]: https://github.com/Theomat/PSEAS
+[PSEAS-video]: https://www.youtube.com/watch?v=BO0313cajPI
 [DeepSynth-arxiv]: https://arxiv.org/abs/2110.12485
 [DeepSynth-code]: https://github.com/nathanael-fijalkow/DeepSynth/
