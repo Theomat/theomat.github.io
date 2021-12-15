@@ -5,14 +5,14 @@ I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 majoring in AI.
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also visit me in my office (number 325) in [LaBRI][LABRI].
 
-*Last updated: Dec. 3rd 2021*
+*Last updated: Dec. 15th 2021*
 
 ## News
 
-- December 9, 10, 11: I am participating to [NAIA.R](https://forum.naia.io/) to mediate about AI. This an AI forum for professionals, students and the general public on the third day.
-- December 1: Our [DeepSynth][DeepSynth-arxiv] paper got accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (15% acceptance rate, 9k + submissions)
-- October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper]
-- October 27: Gave a talk about our CP 2021 paper at SemiDoc in [LaBRI][LABRI].
+- December 9: I participated to [NAIA.R](https://forum.naia.io/) to mediate about AI.
+- December 1: Our [DeepSynth][DeepSynth-arxiv] paper got accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (15% acceptance rate, 9k + submissions).
+- October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper].
+- October 27: Gave a talk about our [CP 2021][CP21] paper at SemiDoc in [LaBRI][LABRI].
 - October 2021: Now a PhD student at [LaBRI][LABRI].
 - September 2021: Graduated from [ENSEIRB-MATMECA][ENSEIRB] with a major in AI.
 
@@ -21,7 +21,8 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`. You can also
 I am mainly interested in:
 
 - Reinforcement Learning
-- Program Synthesis
+- Program Synthesis and more generally automated synthesis
+- Causalty
 - AI related subjects
 
 ## Papers
@@ -41,18 +42,17 @@ I am mainly interested in:
 
 ## Teaching
 
-- P = project
 - C  = course
-- CE = course + exercise sessions
 - E  = exercise sessions
+- P = project
 
 | Subject | Where | Role |  Level | Year | Hours | Page |
 |---------|-------|------|--------|------|-------|------|
-| Biannual C Project | [ENSEIRB-MATMECA][ENSEIRB] | P | BSC 3 | Feb. - May. 2021 | 32h | soon |
+| Biannual C Project | [ENSEIRB-MATMECA][ENSEIRB] | P | BSC 3 | Feb. - May. 2021 | 25h | soon (fr) |
 | Biannual AI Project | [ENSEIRB-MATMECA][ENSEIRB] | P | MSC 2 | Oct. - Jan. 2021 | 9h | none |
-| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | C | MSC 2 | Oct. - Jan. 2021 | 14h40 | [short presentation for students](./teaching/alphago) |
-| Reinforcement Learning | [ENSEIRB-MATMECA][ENSEIRB] | E | MSC 2 | Nov. - Dec. 2021 | 6h | none |
-| Programmation Impérative (FR) | [ENSEIRB-MATMECA][ENSEIRB] | E | BSC 3 | Oct. 2021 | 12h00 | [here](https://www.labri.fr/perso/fmoranda/pg101/) |
+| Project: AlphaGo | [ENSEIRB-MATMECA][ENSEIRB] | C + P | MSC 2 | Oct. - Jan. 2021 | 14h40 | [short presentation for students](./teaching/alphago) |
+| Reinforcement Learning | [ENSEIRB-MATMECA][ENSEIRB] | E + P | MSC 2 | Nov. - Dec. 2021 | 12h | [course notes](https://github.com/nathanael-fijalkow/nathanael-fijalkow.github.io/tree/master/teaching/RL%20ENSEIRB) |
+| Imperative Programming | [ENSEIRB-MATMECA][ENSEIRB] | E | BSC 3 | Oct. 2021 | 12h | [here (fr)](https://www.labri.fr/perso/fmoranda/pg101/) |
 | Reinforcement Learning  Summer School | [Alan Turing Institute][TUR] | E | MSC 2 | Jun. 2021 | 6h | none |
 
 [ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
