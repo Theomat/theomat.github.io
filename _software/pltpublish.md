@@ -8,7 +8,7 @@ excerpt: 'Utility package that takes care of configuring Matplotlib for publicat
 <code> # your plot code using matplotlib.pyplot</code><br>
 <code style="color: #f39c12;">~ pub.save_fig("my_fig.eps")</code><br>
 
-<table border-collapse="collapse" border="1">
+<table border-collapse="collapse" border="1" style="width: fit-content;">
   <tr>
     <th>Without <code>pltpublish</code></th>
     <th>With <code>pltpublish</code></th>
