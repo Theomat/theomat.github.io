@@ -9,5 +9,5 @@ paperauthors: "<b>Théo Matricon</b>, Marie Anastacio, Nathanaël Fijalkow, Laur
 paperdoi: "https://doi.org/10.4230/LIPICS.CP.2021.43"
 papercode: "https://github.com/Theomat/PSEAS"
 papertalk: "https://www.youtube.com/watch?v=BO0313cajPI"
-paperslides: "https://github.com/Theomat/theomat.github.io/raw/main/files/slides/cp2021.pdf"
+paperslides: "files/slides/cp2021.pdf"
 ---
