@@ -2,7 +2,6 @@
 title: "Project: AlphaGo"
 collection: teaching
 type: "MSC 2"
-permalink: /teaching/2021-alphago
 venue: "<a href='https://enseirb-matmeca.bordeaux-inp.fr/'>ENSEIRB-MATMECA</a>"
 dates: "Fall semester of 2021"
 location: "Bordeaux"

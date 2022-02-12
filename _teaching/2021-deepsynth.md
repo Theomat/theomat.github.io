@@ -2,7 +2,6 @@
 title: "Project: DeepSynth"
 collection: teaching
 type: "MSC 2"
-permalink: /teaching/2021-deepsynth
 venue: "<a href='https://enseirb-matmeca.bordeaux-inp.fr/'>ENSEIRB-MATMECA</a>"
 date: 2021-11-01
 location: "Bordeaux"
