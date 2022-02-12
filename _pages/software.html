@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% capture written_lang %}'None'{% endcapture %}
+{% for post in site.software %}
+  {% capture lang %}{{ post.language }}{% endcapture %}
+  {% if lang != written_lang %}
+    <h2 id="{{ lang | slugify }}" class="archive__subtitle">{{ lang }}</h2>
+    {% capture written_lang %}{{ post.language }}{% endcapture %}
+  {% endif %}
+  {% include archive-software.html %}
+{% endfor %}
