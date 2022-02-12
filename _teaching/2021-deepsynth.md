@@ -11,4 +11,4 @@ dates: "Fall semester 2021"
 duration: "10h of supervision"
 ---
 
-As part of the course, we gave as a semester-long project for two students. The project we proposed consisted of implementeing new DSLs for [DeepSynth](https://github.com/nathanael-fijalkow/DeepSynth).
+As part of the course, we gave as a semester-long project for two students. The project we proposed consisted of implementing new DSLs for [DeepSynth](https://github.com/nathanael-fijalkow/DeepSynth).

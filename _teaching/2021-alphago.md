@@ -13,5 +13,5 @@ date: 2021-11-01
 ---
 
 Optional course for students majoring in AI.
-The project is ot reproduce AlphaGo on 9x9 Go boards.
+The project is to reproduce AlphaGo on 9x9 Go boards.
 I managed the whole course.
