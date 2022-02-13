@@ -20,7 +20,7 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 - Program Synthesis and more generally automated synthesis
 - Reinforcement Learning
 - AI related subjects
-- honestly everything's interesting there's just not enough time
+- Honestly everything's interesting there's just not enough time
 
 ## News
 
