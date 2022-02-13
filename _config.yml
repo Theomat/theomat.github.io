@@ -85,7 +85,9 @@ author:
   avatar           : "panda.jpeg"
   bio              : "PhD Student"
   location         : "Bordeaux"
-  employer         : "LaBRI"
+  employer         :
+    name              : "LaBRI"
+    url               : "https://www.labri.fr/en/"
   pubmed           : 
   googlescholar    : 
   email            :  "theomatricon@gmail.com"
