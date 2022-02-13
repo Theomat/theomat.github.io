@@ -7,8 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "<img src='/images/site-logo.png' width='20px' height='20px'></img>"
-title_separator          : "-"
+title                    : "Théo Matricon"
+title_separator          : "|"
+home_logo                : "/images/site-logo.png"
 name                     : &name "Théo Matricon"
 description              : &description "PhD Student at LaBRI"
 url                      : https://theomat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
