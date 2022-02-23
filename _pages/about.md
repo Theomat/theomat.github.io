@@ -24,10 +24,10 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## News
 
-- March 2: I will present our [DeepSynth][DeepSynth-arxiv] paper at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Oral).
+- February 25/26/27: I will present our [DeepSynth][DeepSynth-arxiv] paper at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Oral).
 - February 11: [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/) has successfully defended his HDR.
 - December 9: I participated in [NAIA.R](https://forum.naia.io/) to mediate about AI.
-- December 1: Our [DeepSynth][DeepSynth-arxiv] paper got accepted for an Oral at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (15% acceptance rate, 9k + submissions).
+- December 1: Our [DeepSynth][DeepSynth-arxiv] paper got accepted for an Oral at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (5% of submissions accepted for oral, 15% acceptance rate, 9k + submissions).
 - October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper].
 - October 27: Gave a talk about our [CP 2021][CP21] paper at SemiDoc in [LaBRI][LABRI].
 - October 2021: Now a PhD student at [LaBRI][LABRI].
