@@ -7,20 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-This is a compilation of random things that I think are cool.
-Views are my own.
+Views are of course my own.
 
 ## Research related
 
-- Research for Science should be open-access.
+- Research for Science should be open-access. Notice that this is a statement which means it is not up for debate.
 - [Slow science](http://slow-science.org/)
-- if I have a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself.
+- If I have a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself. Can it find a strictly better algorithm with respect to time but with the same power?
+- What if we changed the reviewing system to be less random?
 
 ## Random thoughts
 
 - *What if by taking a picture of the sky and giving my location, some algorithm could tell me the rain quantity and time very locally?*
 
   > Let's say I go out in the center of Bordeaux for a total of 2 hours, I could know if I need to take an umbrella just for those 2 hours. 
+
+- What is the opposite of white-snow? black-soot? If you have something better, please tell me.
 
 ## Random things about me
 
