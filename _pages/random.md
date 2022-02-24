@@ -26,6 +26,8 @@ Views are of course my own.
 
 ## Random things about me
 
+My [ha-index](https://www.irif.fr/~haberm/haindex.html) is 80 or 81.
+
 I really like <i class="fas fa-globe" style="color:#3498db;"></i> geopolitics, I have a soft spot for romance stories <i class="fas fa-book"></i>.
 I love playing games <i class="fas fa-dice"></i>, I almost never refuse playing.
 I follow the F1 championship, which should not be encouraged because of the <i class="fas fa-leaf" style="color:#2ecc71;"></i> environment.
