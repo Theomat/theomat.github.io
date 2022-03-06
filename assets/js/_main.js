@@ -37,10 +37,12 @@ $(document).ready(function(){
       Stickyfill.rebuild();
       Stickyfill.init();
       $(".author__urls").show();
+      $("#flag").show();
     } else {
       // unfix
       Stickyfill.stop();
       $(".author__urls").hide();
+      $("#flag").hide();
     }
   };
 
