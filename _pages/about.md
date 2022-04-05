@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) and [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/).
-I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 majoring in AI.
+Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/) and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
+I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
@@ -24,14 +24,14 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## News
 
-- February 25/26/27: I will present our [DeepSynth][DeepSynth-arxiv] paper at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Oral).
+- March: We welcome Gaëtan Marguerite for an internship until May to work with us on DeepSynth.
+- February 25/26/27: I presented our [DeepSynth][DeepSynth-arxiv] paper at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Oral).
 - February 11: [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/) has successfully defended his HDR.
 - December 9: I participated in [NAIA.R](https://forum.naia.io/) to mediate about AI.
 - December 1: Our [DeepSynth][DeepSynth-arxiv] paper got accepted for an Oral at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (5% of submissions accepted for oral, 15% acceptance rate, 9k + submissions).
 - October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper].
 - October 27: Gave a talk about our [CP 2021][CP21] paper at SemiDoc in [LaBRI][LABRI].
 - October 2021: Now a PhD student at [LaBRI][LABRI].
-- September 2021: Graduated from [ENSEIRB-MATMECA][ENSEIRB] with a major in AI.
 
 [ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
 [LABRI]: https://www.labri.fr/
