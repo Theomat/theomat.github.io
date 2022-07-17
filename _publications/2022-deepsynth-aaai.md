@@ -9,4 +9,6 @@ paperauthors: "Nathanaël Fijalkow, Guillaume Lagarde, <b>Théo Matricon</b>, Ke
 paperdoi: "https://arxiv.org/abs/2110.12485"
 papercode: "https://github.com/nathanael-fijalkow/DeepSynth/"
 paperslides: "files/slides/aaai22.pdf"
+projecturl: "https://deepsynth.labri.fr/"
+citation: "Nathanaël Fijalkow, Guillaume Lagarde, Théo Matricon, Kevin Ellis, Pierre Ohlmann, Akarsh Potta. Scaling Neural Program Synthesis with Distribution-based Search. AAAI 22: International Conference on Artificial Intelligence. Invited for Oral Presentation. "
 ---
