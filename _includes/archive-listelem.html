@@ -59,6 +59,9 @@
     {% endif %}
 
     <p>
+    {% if post.projecturl %}
+      <a href=" {{ post.projecturl }} " style="color: #27ae60;"><i class="fa fa-home"></i> Project</a>
+    {% endif %}
     {% if post.paperdoi %}
     <a href=" {{ post.paperdoi }} " style="color: #f1c40f;"><i class="fas fa-link"></i> DOI</a>
     {% endif %}
