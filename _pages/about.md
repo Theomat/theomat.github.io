@@ -26,7 +26,7 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 - July: I gave a talk at GT Vérif in [LaBRI][LABRI] on strategies as trees in MDPs.
 - May - July: [Utkarsh Rajan](https://github.com/UtkarshRjn) joined us for an internship on DeepSynth.
-- March - June: [Gaëtan Marguerite](https://github.com/gaetanmargueritte) joined us for an internship on DeepSynth.
+- March - June: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) joined us for an internship on DeepSynth.
 - February 25/26/27: I presented our [DeepSynth][DeepSynth-arxiv] paper at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Oral).
 - February 11: [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/) has successfully defended his HDR.
 - December 9: I participated in [NAIA.R](https://forum.naia.io/) to mediate about AI.
