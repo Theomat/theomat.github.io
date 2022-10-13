@@ -11,10 +11,13 @@ Views are of course my own.
 
 ## Research related
 
-- Research for Science should be open-access. Notice that this is a statement which means it is not up for debate.
+- Research for Science should be open-access.
 - [Slow science](http://slow-science.org/)
 - If I have a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself. Can it find a strictly better algorithm with respect to time but with the same power?
-- What if we could thumbs up and thumbs down paper on Arxiv? Would good papers be rewarded or only marketable papers?
+- What if we could thumbs up and thumbs down paper on ArXiv? Would good papers be rewarded or only marketable papers?
+- Is the following decision problem NP-hard? Is it NP-complete?
+  given a forest of trees on an alphabet, find a tree t s.t. t is the argmax of the sum of size of trees in the forest with every instance of t replaced with the letter X (not in the alphabet)
+  Informally, this is "library learning" in program synthesis, the forest is a dataset of programs and you are trying to learn a new letter (=a primitive for your DSL) for your alphabet to better express the programs.
 
 ## Random thoughts
 
@@ -32,5 +35,3 @@ I really like <i class="fas fa-globe" style="color:#3498db;"></i> geopolitics, I
 I love playing games <i class="fas fa-dice"></i>, I almost never refuse playing.
 
 Did you know? I'm French yet I don't drink alcohol, I don't eat cheese nor bread...
-
-I deeply relate with pandas based on some of their difficulties. You can try to take a guess and ask me about it. :)

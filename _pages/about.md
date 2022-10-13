@@ -24,6 +24,7 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## News
 
+- October: I'm in Warsaw for a visit!
 - July: I gave a talk at GT Vérif in [LaBRI][LABRI] on strategies as trees in MDPs.
 - May - July: [Utkarsh Rajan](https://github.com/UtkarshRjn) joined us for an internship on DeepSynth.
 - March - June: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) joined us for an internship on DeepSynth.
