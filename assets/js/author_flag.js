@@ -2,7 +2,7 @@ const ASPECT_RATIO = 4/7
 const LINE_COLORS = ['#239f40', '#FFFFFF', '#da0000'];
 const FPS = 20
 
-var ctx;
+var ctx = 0;
 var width;
 var height;
 // Auto manage size
@@ -63,7 +63,7 @@ CanvasRenderingContext2D.prototype.functionPath = function (x0, x1, f, n = 50) {
 }
 
 
-const unused_ratio = 0.2
+const unused_ratio = .2
 
 let waves = [
     [3 / 126, 80 / 190, 0], 
@@ -87,14 +87,19 @@ function wave_fun(x){
 }
 
 function line_flag(){
+    if (ctx == 0)
+        return;
     t += 2
     ctx.clearRect(0, 0, width, height)
 
     ctx.save()
-    ctx.translate(0, unused_ratio * height / 2)
-
+    
     const numColors = LINE_COLORS.length;
-    const vspace = height * (1 - unused_ratio);
+    var vspace = height * (1 - unused_ratio);
+    const wspace = min(width, vspace / ASPECT_RATIO);
+    vspace = wspace * ASPECT_RATIO;
+    
+    ctx.translate(0, (height - vspace) / 2);
 
     for (let index = 0; index < LINE_COLORS.length; index++) {
         const color = LINE_COLORS[index];
