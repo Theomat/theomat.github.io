@@ -1,4 +1,5 @@
-const ASPECT_RATIO = 3/2
+const ASPECT_RATIO = 4/7
+const LINE_COLORS = ['#239f40', '#FFFFFF', '#da0000'];
 const FPS = 20
 
 var ctx;
@@ -40,12 +41,12 @@ window.addEventListener('load', () => {
     });
 
     my_canvas.onclick = function() {
-        window.open("https://fundukraine.com/")
+        window.open("https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini")
     }
 
 }, false);
 
-setInterval(UkraineFlag, 1000 / FPS)
+setInterval(IranFlag, 1000 / FPS)
 
 
 CanvasRenderingContext2D.prototype.functionPath = function (x0, x1, f, n = 50) {
@@ -62,8 +63,6 @@ CanvasRenderingContext2D.prototype.functionPath = function (x0, x1, f, n = 50) {
 }
 
 
-const yellow = '#e7c204'
-const blue = '#0455ab'
 const unused_ratio = 0.2
 
 let waves = [
@@ -87,36 +86,54 @@ function wave_fun(x){
     return out
 }
 
-function UkraineFlag(){
+function line_flag(){
     t += 2
     ctx.clearRect(0, 0, width, height)
 
     ctx.save()
     ctx.translate(0, unused_ratio * height / 2)
 
-    ctx.fillStyle = blue;
-    ctx.beginPath()
-    ctx.moveTo(0, 0)
-    ctx.functionPath(0, width, wave_fun, width)
-    ctx.lineTo(width, height * 5 / 8)
-    ctx.lineTo(0, height * 5 / 8)
-    ctx.lineTo(0, 0)
-    ctx.closePath()
-    ctx.fill()
-    // draw the core
-    ctx.fillStyle = yellow;
-    ctx.translate(0, height  * (1 - unused_ratio))
-    let middle = height / 2 - height * (1 - unused_ratio) - unused_ratio * height / 2
+    const numColors = LINE_COLORS.length;
+    const vspace = height * (1 - unused_ratio);
+
+    for (let index = 0; index < LINE_COLORS.length; index++) {
+        const color = LINE_COLORS[index];
+        ctx.fillStyle = color;
+
+        ctx.beginPath();
+        ctx.moveTo(0, 0);
+        ctx.functionPath(0, width, wave_fun, width);
+        ctx.lineTo(width, vspace / numColors);
+        ctx.lineTo(0, vspace / numColors);
+        ctx.lineTo(0, 0);
+        ctx.closePath();
+        ctx.fill();
+
+        ctx.translate(0, vspace / numColors);
+    }
 
     ctx.beginPath()
     ctx.moveTo(0, 0)
     ctx.functionPath(0, width, wave_fun, width)
-    ctx.translate(0, middle)
-    ctx.functionPath(width, 0, (x) => { return wave_fun(x) }, width)
-
     ctx.lineTo(0, 0)
     ctx.closePath()
     ctx.fill()
+
+    
+    // // draw the core
+    // ctx.fillStyle = yellow;
+    // ctx.translate(0, height  * (1 - unused_ratio))
+    // let middle = height / 2 - height * (1 - unused_ratio) - unused_ratio * height / 2
+
+    // ctx.beginPath()
+    // ctx.moveTo(0, 0)
+    // ctx.functionPath(0, width, wave_fun, width)
+    // ctx.translate(0, middle)
+    // ctx.functionPath(width, 0, (x) => { return wave_fun(x) }, width)
+
+    // ctx.lineTo(0, 0)
+    // ctx.closePath()
+    // ctx.fill()
 
     ctx.restore()
 }
