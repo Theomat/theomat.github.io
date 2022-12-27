@@ -27,7 +27,6 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## News
 
-- April: I will probably be in Paris for ETAPS.
 - March: I will be in Warsaw again!
 
 - October: I'm in Warsaw for a visit!
