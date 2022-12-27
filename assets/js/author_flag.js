@@ -46,7 +46,7 @@ window.addEventListener('load', () => {
 
 }, false);
 
-setInterval(IranFlag, 1000 / FPS)
+setInterval(line_flag, 1000 / FPS)
 
 
 CanvasRenderingContext2D.prototype.functionPath = function (x0, x1, f, n = 50) {
