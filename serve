@@ -1,2 +1,2 @@
 #! /bin/bash
-bundler-2.7 exec jekyll liveserve --config _config.yml,_config.dev.yml
+bundler exec jekyll liveserve --config _config.yml,_config.dev.yml
