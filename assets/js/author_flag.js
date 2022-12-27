@@ -1,10 +1,13 @@
-const ASPECT_RATIO = 4/7
+const ASPECT_RATIO = 4./7
 const LINE_COLORS = ['#239f40', '#FFFFFF', '#da0000'];
 const FPS = 20
 
+// var ctx: CanvasRenderingContext2D = 0;
 var ctx = 0;
 var width;
 var height;
+var hspace;
+var vspace;
 // Auto manage size
 window.addEventListener('load', () => {
     // Get HTML elements
@@ -13,11 +16,15 @@ window.addEventListener('load', () => {
     // Update size
     my_canvas.width = my_div.clientWidth
     my_canvas.clientWidth = my_div.clientWidth
-    my_canvas.height = my_canvas.width / ASPECT_RATIO
+    my_canvas.height = my_canvas.width * ASPECT_RATIO
     my_canvas.clientHeight = my_canvas.height
 
     width = my_canvas.width;
     height = my_canvas.height;
+    // Update computed space
+    vspace = height * (1 - unused_ratio);
+    hspace = min(width, vspace / ASPECT_RATIO);
+    vspace = hspace * ASPECT_RATIO;
 
     // get context
     ctx = my_canvas.getContext("2d");
@@ -26,11 +33,15 @@ window.addEventListener('load', () => {
         // Update size
         my_canvas.width = my_div.clientWidth
         my_canvas.clientWidth = my_div.clientWidth
-        my_canvas.height = my_canvas.width / ASPECT_RATIO
+        my_canvas.height = my_canvas.width * ASPECT_RATIO
         my_canvas.clientHeight = my_canvas.height
 
         width = my_canvas.width;
         height = my_canvas.height;
+        // Update computed space
+        vspace = height * (1 - unused_ratio);
+        hspace = min(width, vspace / ASPECT_RATIO);
+        vspace = hspace * ASPECT_RATIO;
 
         let element = document.getElementsByClassName("author__urls")[0]
         if (element.style.display == "none"){
@@ -78,12 +89,16 @@ function wave_fun(x){
     let out = 0
     for (var i = 0; i < waves.length; i++) {
         let wave = waves[i]
-        let amplitude = wave[0] * height
-        let w = Math.PI / (wave[1] * width)
+        let amplitude = wave[0] * vspace;
+        let w = Math.PI / (wave[1] * hspace)
         let phi = wave[2]
         out += amplitude * Math.sin(w * (x + t) + phi)
     }
     return out
+}
+
+function min(a, b){
+    return a < b ? a : b;
 }
 
 function line_flag(){
@@ -91,54 +106,26 @@ function line_flag(){
         return;
     t += 2
     ctx.clearRect(0, 0, width, height)
-
     ctx.save()
     
     const numColors = LINE_COLORS.length;
-    var vspace = height * (1 - unused_ratio);
-    const wspace = min(width, vspace / ASPECT_RATIO);
-    vspace = wspace * ASPECT_RATIO;
+    const dy = vspace / numColors;
     
     ctx.translate(0, (height - vspace) / 2);
 
+    // Add waves
     for (let index = 0; index < LINE_COLORS.length; index++) {
         const color = LINE_COLORS[index];
         ctx.fillStyle = color;
 
         ctx.beginPath();
         ctx.moveTo(0, 0);
-        ctx.functionPath(0, width, wave_fun, width);
-        ctx.lineTo(width, vspace / numColors);
-        ctx.lineTo(0, vspace / numColors);
-        ctx.lineTo(0, 0);
+        ctx.functionPath(0, hspace, wave_fun, hspace);
+        ctx.translate(0, dy);
+        ctx.functionPath(hspace, 0, wave_fun, hspace)
         ctx.closePath();
-        ctx.fill();
-
-        ctx.translate(0, vspace / numColors);
+        ctx.fill();        
     }
-
-    ctx.beginPath()
-    ctx.moveTo(0, 0)
-    ctx.functionPath(0, width, wave_fun, width)
-    ctx.lineTo(0, 0)
-    ctx.closePath()
-    ctx.fill()
-
-    
-    // // draw the core
-    // ctx.fillStyle = yellow;
-    // ctx.translate(0, height  * (1 - unused_ratio))
-    // let middle = height / 2 - height * (1 - unused_ratio) - unused_ratio * height / 2
-
-    // ctx.beginPath()
-    // ctx.moveTo(0, 0)
-    // ctx.functionPath(0, width, wave_fun, width)
-    // ctx.translate(0, middle)
-    // ctx.functionPath(width, 0, (x) => { return wave_fun(x) }, width)
-
-    // ctx.lineTo(0, 0)
-    // ctx.closePath()
-    // ctx.fill()
 
     ctx.restore()
 }
