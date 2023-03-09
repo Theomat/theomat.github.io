@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**Im am looking for an intern for a 5 month internship on *program synthesis*, the subject is available [here](https://theomat.github.io/files/stage.pdf).
-Feel free to contact me if you are interested or just to know more!**
 
 Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow](https://games-automata-play.com/) and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
@@ -28,7 +26,7 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 ## News
 
 - March: I will be in Warsaw again!
-
+- February: Our paper WikiCoder: Learning to Write Knowledge-Powered Code has been accetpted at SPIN (ETAPS).
 - January: Our paper [Challenges of Acquiring Compositional Inductive Biases via Meta-Learning](https://proceedings.mlr.press/v191/anastacio22a.html) is finally published in the ECML/PKDD Workshop on Meta-Knowledge Transfer
 
 2022:
