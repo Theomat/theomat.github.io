@@ -1,5 +1,5 @@
-const ASPECT_RATIO = 4./7
-const LINE_COLORS = ['#239f40', '#FFFFFF', '#da0000'];
+const ASPECT_RATIO = 2./3
+const LINE_COLORS = ['#0066cc', '#ffcc00'];
 const FPS = 20
 
 // var ctx: CanvasRenderingContext2D = 0;
