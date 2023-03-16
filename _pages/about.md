@@ -25,8 +25,16 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## News
 
+Future:
+
+- June: I will try to go to a [summer school on complexity](https://epit2023.sciencesconf.org/)
+- June-July: I will welcome one internp at LaBRI
+- April: I will present some of my work at SPIN, GT DAAL and at MTV
+
+2023:
+
 - March: I will be in Warsaw again!
-- February: Our paper WikiCoder: Learning to Write Knowledge-Powered Code has been accetpted at SPIN (ETAPS).
+- February: Our paper [WikiCoder: Learning to Write Knowledge-Powered Code](https://arxiv.org/abs/2303.08574) has been accepted at SPIN (ETAPS).
 - January: Our paper [Challenges of Acquiring Compositional Inductive Biases via Meta-Learning](https://proceedings.mlr.press/v191/anastacio22a.html) is finally published in the ECML/PKDD Workshop on Meta-Knowledge Transfer
 
 2022:
