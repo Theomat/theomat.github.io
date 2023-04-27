@@ -27,19 +27,19 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 Future:
 
-- June: I will try to go to a [summer school on complexity](https://epit2023.sciencesconf.org/)
-- June-July: I will welcome one internp at LaBRI
-- April: I will present some of my work at SPIN, GT DAAL and at MTV
+- June-July: I will welcome [Félix Yvonnet](https://github.com/Felix-Yvonnet)
 
 2023:
 
-- March: I will be in Warsaw again!
+- April 27: I presented [WikiCoder: Learning to Write Knowledge-Powered Code](https://arxiv.org/abs/2303.08574) at SPIN (ETAPS) in Paris.
+- April 21: I presented our ongoing work on language shaprening at GT DAAL in Paris.
+- March: I visited the Warsaw University (MIMUW) for two weeks.
 - February: Our paper [WikiCoder: Learning to Write Knowledge-Powered Code](https://arxiv.org/abs/2303.08574) has been accepted at SPIN (ETAPS).
 - January: Our paper [Challenges of Acquiring Compositional Inductive Biases via Meta-Learning](https://proceedings.mlr.press/v191/anastacio22a.html) is finally published in the ECML/PKDD Workshop on Meta-Knowledge Transfer
 
 2022:
 
-- October: I'm in Warsaw for a visit!
+- October: I'm in Warsaw (MIMUW) for a visit!
 - July: I gave a talk at GT Vérif in [LaBRI][LABRI] on strategies as trees in MDPs.
 - May - July: [Utkarsh Rajan](https://github.com/UtkarshRjn) joined us for an internship on DeepSynth.
 - March - June: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) joined us for an internship on DeepSynth.
