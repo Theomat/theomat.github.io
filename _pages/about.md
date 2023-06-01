@@ -25,9 +25,11 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## News
 
-Future:
+Current:
 
-- June-July: I will welcome [Félix Yvonnet](https://github.com/Felix-Yvonnet)
+- June-July: I will welcome two interns:
+  - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
+  - 19th June to 29th July: [Priscilla Tissot](https://fr.linkedin.com/in/priscilla-tissot-9493851b8) to work on predictions.
 
 2023:
 
