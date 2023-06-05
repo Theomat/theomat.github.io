@@ -11,6 +11,7 @@ redirect_from:
 
 Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow](https://games-automata-play.com/) and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
+Mentor of [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
@@ -27,6 +28,7 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 Current:
 
+- June: I am now mentoring [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
 - June-July: I will welcome two interns:
   - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
   - 19th June to 29th July: [Priscilla Tissot](https://fr.linkedin.com/in/priscilla-tissot-9493851b8) to work on predictions.
