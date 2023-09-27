@@ -28,13 +28,16 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 Current:
 
-- June: I am now mentoring [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
-- June-July: I will welcome two interns:
-  - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
-  - 19th June to 29th July: [Priscilla Tissot](https://fr.linkedin.com/in/priscilla-tissot-9493851b8) to work on predictions.
+- I am present at the Dagstuhl meeting on "The Futures of Reactive Synthesis".
+- I am working on a No-ML version of ProgSynth.
+- I am very interested about library learning perhaps you have a definition of good programs to learn?
 
 2023:
 
+- June: I am now mentoring [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
+- June-July: I welcomed two interns:
+  - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
+  - 19th June to 29th July: [Priscilla Tissot](https://fr.linkedin.com/in/priscilla-tissot-9493851b8) to work on predictions.
 - April 27: I presented [WikiCoder: Learning to Write Knowledge-Powered Code](https://arxiv.org/abs/2303.08574) at SPIN (ETAPS) in Paris.
 - April 21: I presented our ongoing work on language shaprening at GT DAAL in Paris.
 - March: I visited the Warsaw University (MIMUW) for two weeks.
