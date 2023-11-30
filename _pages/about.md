@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**I am looking at Postdoc positions.**
 
 Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow](https://games-automata-play.com/) and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
@@ -19,21 +20,41 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## Research Interests
 
-- **Program Synthesis** (main research area) also known as *Code Generation*
+- **Program Synthesis** also known as *Code Generation* if you are more ML inclined
+- Comparative performance of algorithm performances
 - Reinforcement Learning
-- AI related subjects
+- Machine Learning tools that can help reduce environmental impact
 - Honestly everything's interesting there's just not enough time
+
+## Currently looking at
+
+- An optimal enumeration algorithm for CFG, UCFG
+- No-ML version of ProgSynth but with similar performances
+- Planning in program synthesis
+- Program Synthesis on GPU
+- Library/component learning
+- Stable distributions in order to improve upon [PSEAS][PSEAS-paper]
+- Explainable Policy Extraction
+- Iterative strategies in reactive synthesis
+- Future: I would like to look at the framework of AI assisted decision in the collaborative sense
 
 ## News
 
 Current:
 
-- I am present at the Dagstuhl meeting on "The Futures of Reactive Synthesis".
-- I am working on a No-ML version of ProgSynth.
-- I am very interested about library learning perhaps you have a definition of good programs to learn?
+- Actively participating to the working group on psychosocial risks in my lab
+- December: I went to the GDR GLIA in Paris to talk about [WikiCoder](https://arxiv.org/abs/2303.08574)
+- November: With the other PhD Students in the psychosocial risks we've created a listening and speaking group for PhD students to be listened to in a safe space
+
+2024:
+
+- January: I will be participating in the organization and in the events of AI4Industry to talk about the PhD
 
 2023:
 
+- November: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) is asking for more program synthesis and joined us as a research engineer until March.
+- October: I invited [Natacha Portier](https://perso.ens-lyon.fr/natacha.portier/blog/) to talk about Impostor Syndrom to PhD Students
+- September: I was at the Dagstuhl meeting on "The Futures of Reactive Synthesis".
 - June: I am now mentoring [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
 - June-July: I welcomed two interns:
   - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
@@ -46,6 +67,7 @@ Current:
 
 2022:
 
+- December: I am now finance officer of the local PhD association!
 - October: I'm in Warsaw (MIMUW) for a visit!
 - July: I gave a talk at GT Vérif in [LaBRI][LABRI] on strategies as trees in MDPs.
 - May - July: [Utkarsh Rajan](https://github.com/UtkarshRjn) joined us for an internship on DeepSynth.
