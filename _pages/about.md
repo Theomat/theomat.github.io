@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**I am looking at Postdoc positions.**
-
 Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow](https://games-automata-play.com/) and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
 Mentor of [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
