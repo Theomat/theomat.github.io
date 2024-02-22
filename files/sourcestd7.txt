@@ -1,0 +1,67 @@
+// Functions on pointed pairs
+function cons(_car, _cdr) { return { car: _car, cdr: _cdr }; }
+const nil = {};
+function car(cons)        { return cons['car']; }
+function cdr(cons)        { return cons['cdr']; }
+
+// Functions on lists
+function head(l)    { return car(l); }
+function tail(l)    { return cdr(l); }
+function isEmpty(l) { return l === nil; }
+ 
+// Computes the list of integers between `a` and `b`
+function listIota(a, b) {
+    if (a >= b)
+        return nil;
+    else
+        return cons(a, listIota(a+1, b));
+}
+
+// Computes a string displaying the contents of the list `l`
+function listDisp(l) {
+    function listDispRec(l) {
+        if (isEmpty(l))
+            return "";
+        else if (isEmpty(tail(l)))
+            return `${head(l)}`;
+        else
+            return `${head(l)},${listDispRec(tail(l))}`;
+    }
+    return `(|${listDispRec(l)}|)`;
+}
+ 
+////////// Exercice  1  //////////
+ 
+const aList = cons(1, cons(-1, cons(2, nil)));
+listMap((x) => x+1, aList); // -> [2,0,3]
+ 
+////////// Exercice  2  //////////
+ 
+////////// Exercice  3  //////////
+ 
+let aNumberList1 = cons(4, cons(9, cons(25, nil)));
+prodIterate(sqrt, aNumberList1); // -> 30
+ 
+let aNumberList3 = cons(4, cons(9, cons(25, nil)));
+listMapFold(sqrt, aNumberList3); // -> (|2, 3, 4|)
+ 
+let aNumberList2 = cons(1, cons(8, cons(2, cons(7, nil))));
+howMany((x) => x > 5, aNumberList2); // -> 2
+ 
+////////// Exercice  4  //////////
+ 
+// Computes a string for the representation of the matrix `m`
+function matrixDisp(m) {
+    return "[" + listFoldL((acc, el) => `${acc} ${el}`,
+                           "",
+                           listMap(listDisp, m)) + " ]";
+}
+ 
+// An example of vector
+const aVector = cons(1, cons(2, cons(3, nil)));            // [1,2,3]
+// An example of matrix
+const line1 = cons(1, cons(2, cons(3,nil)));               // [[1,2,3],
+const line2 = cons(4, cons(5, cons(6,nil)));               //  [4,5,6],
+const line3 = cons(7, cons(8, cons(9,nil)));               //  [7,8,9]]
+const aMatrix = cons(line1, cons(line2, cons(line3, nil)));
+ 
