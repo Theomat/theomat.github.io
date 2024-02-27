@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow](https://games-automata-play.com/) and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
+Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow][NATH] and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
-Mentor of [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
+Mentor of [Marcille](https://www.labri.fr/perso/pmarcille/).
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
@@ -18,38 +18,33 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
 ## Research Interests
 
-- **Program Synthesis** also known as *Code Generation* if you are more ML inclined
+- **Program Synthesis**, *Code Generation*
 - Comparative performance of algorithm performances
 - Reinforcement Learning
 - Machine Learning tools that can help reduce environmental impact
 - Honestly everything's interesting there's just not enough time
-
-## Currently looking at
-
-- An optimal enumeration algorithm for CFG, UCFG
-- No-ML version of ProgSynth but with similar performances
-- Planning in program synthesis
-- Program Synthesis on GPU
-- Library/component learning
-- Stable distributions in order to improve upon [PSEAS][PSEAS-paper]
-- Explainable Policy Extraction
-- Iterative strategies in reactive synthesis
-- Future: I would like to look at the framework of AI assisted decision in the collaborative sense
 
 ## News
 
 Current:
 
 - Actively participating to the working group on psychosocial risks in my lab
-- December: I went to the GDR GLIA in Paris to talk about [WikiCoder](https://arxiv.org/abs/2303.08574)
-- November: With the other PhD Students in the psychosocial risks we've created a listening and speaking group for PhD students to be listened to in a safe space
+- March-April: in Rennes from March 18 to April 26 to work with [Mathieu Acher][MATHIEU]
+- April: I will also be at GT DAAL
+- Will defend my thesis in Oct. / Nov.
 
 2024:
 
-- January: I will be participating in the organization and in the events of AI4Industry to talk about the PhD
+- March - June ?: A new intern will follow on [Gianni](https://fr.linkedin.com/in/gianni-padula-8192b8223)'s work
+- February - Avril: Sylvain is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Guillaume Lagarde][GUILLAUME] and me on program synthesis for reinforcement learning
+- Nov. 23 - March 24: [Gianni Padula](https://fr.linkedin.com/in/gianni-padula-8192b8223) is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV] and me on a new reactive synthesis algorithm
+- February: I gave a talk at Progress, a software engineering research team, on "Code Generation vs Program Synthesis"
+- January: I took part in the organization and in the events of AI4Industry to talk about the PhD
 
 2023:
 
+- December: I went to the GDR GLIA in Paris to talk about [WikiCoder](https://arxiv.org/abs/2303.08574)
+- November: With the other PhD Students in the psychosocial risks we've created a listening and speaking group for PhD students to be listened to in a safe space
 - November: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) is asking for more program synthesis and joined us as a research engineer until March.
 - October: I invited [Natacha Portier](https://perso.ens-lyon.fr/natacha.portier/blog/) to talk about Impostor Syndrom to PhD Students
 - September: I was at the Dagstuhl meeting on "The Futures of Reactive Synthesis".
@@ -71,7 +66,7 @@ Current:
 - May - July: [Utkarsh Rajan](https://github.com/UtkarshRjn) joined us for an internship on DeepSynth.
 - March - June: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) joined us for an internship on DeepSynth.
 - February 25/26/27: I presented our [DeepSynth][DeepSynth-arxiv] paper at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Oral).
-- February 11: [Nathanaël Fijalkow](https://games-automata-play.com/) has successfully defended his HDR.
+- February 11: [Nathanaël Fijalkow][NATH] has successfully defended his HDR.
 
 2021:
 
@@ -79,6 +74,10 @@ Current:
 - October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper].
 - October 2021: Now a PhD student at [LaBRI][LABRI].
 
+[GUILLAUME]: https://guillaume-lagarde.github.io/
+[MATHIEU]: https://www.mathieuacher.com/
+[PIERREV]: https://pierre-vandenhove.github.io/
+[NATH]: https://games-automata-play.com/
 [ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
 [LABRI]: https://www.labri.fr/
 [TUR]: https://www.turing.ac.uk/
