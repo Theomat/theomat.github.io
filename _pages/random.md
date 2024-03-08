@@ -11,7 +11,7 @@ Views are of course my own.
 
 ## Research related
 
-- Research for Science should be open-access.
+- Research for Science should be open-access, see [Plan S](https://www.coalition-s.org/why-plan-s/) and an interesting article in French about [publication models](https://frederichelein.wordpress.com/2019/10/20/le-piege-des-accords-transformants/).
 - Do you know [knowledge clustering](https://github.com/remimorvan/Knowledge-Clustering) perhaps it will change the way you write papers?
 - [Slow science](http://slow-science.org/)
 - If I have a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself. Can it find a strictly better algorithm with respect to time but with the same power?
