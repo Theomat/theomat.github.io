@@ -29,13 +29,14 @@ You can send me an email at `x@gmail.com` where `x = theomatricon`.
 Current:
 
 - Actively participating to the working group on psychosocial risks in my lab
-- March-April: in Rennes from March 18 to April 26 to work with [Mathieu Acher][MATHIEU]
-- April: I will also be at GT DAAL
+- March-April: in Rennes from March 18 to April 26 to work with [Mathieu Acher][MATHIEU] and the DiverSe team
+- April 25-26: I will be at GT DAAL in Rennes
+- June: Will be at the Dagsthul seminar on "Stochastic Games"
 - Will defend my thesis in Oct. / Nov.
 
 2024:
 
-- March - June ?: A new intern will follow on [Gianni](https://fr.linkedin.com/in/gianni-padula-8192b8223)'s work
+- March - June: We have an intern working on fast approaches for LTL learning
 - February - Avril: Sylvain is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Guillaume Lagarde][GUILLAUME] and me on program synthesis for reinforcement learning
 - Nov. 23 - March 24: [Gianni Padula](https://fr.linkedin.com/in/gianni-padula-8192b8223) is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV] and me on a new reactive synthesis algorithm
 - February: I gave a talk at Progress, a software engineering research team, on "Code Generation vs Program Synthesis"
