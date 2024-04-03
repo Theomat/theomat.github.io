@@ -36,6 +36,8 @@ Current:
 
 2024:
 
+- April 11: I gave a talk at 68nqrt seminar about "Scaling enumerative domain-agnostic program synthesis"
+- March 28: I gave a talk at DiverSe Coffee
 - March - June: We have an intern working on fast approaches for LTL learning
 - February - Avril: Sylvain is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Guillaume Lagarde][GUILLAUME] and me on program synthesis for reinforcement learning
 - Nov. 23 - March 24: [Gianni Padula](https://fr.linkedin.com/in/gianni-padula-8192b8223) is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV] and me on a new reactive synthesis algorithm
@@ -48,13 +50,13 @@ Current:
 - November: With the other PhD Students in the psychosocial risks we've created a listening and speaking group for PhD students to be listened to in a safe space
 - November: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) is asking for more program synthesis and joined us as a research engineer until March.
 - October: I invited [Natacha Portier](https://perso.ens-lyon.fr/natacha.portier/blog/) to talk about Impostor Syndrom to PhD Students
-- September: I was at the Dagstuhl meeting on "The Futures of Reactive Synthesis".
-- June: I am now mentoring [Pierre-Marie Marcille](https://www.labri.fr/perso/pmarcille/).
+- September: I was at the Dagstuhl meeting on "The Futures of Reactive Synthesis" [report](https://doi.org/10.4230/DagRep.13.9.166).
+- June: I am now mentoring [Marcille](https://www.labri.fr/perso/pmarcille/).
 - June-July: I welcomed two interns:
   - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
   - 19th June to 29th July: [Priscilla Tissot](https://fr.linkedin.com/in/priscilla-tissot-9493851b8) to work on predictions.
 - April 27: I presented [WikiCoder: Learning to Write Knowledge-Powered Code](https://arxiv.org/abs/2303.08574) at SPIN (ETAPS) in Paris.
-- April 21: I presented our ongoing work on language shaprening at GT DAAL in Paris.
+- April 21: I presented our ongoing work on language sharpening at GT DAAL in Paris.
 - March: I visited the Warsaw University (MIMUW) for two weeks.
 - February: Our paper [WikiCoder: Learning to Write Knowledge-Powered Code](https://arxiv.org/abs/2303.08574) has been accepted at SPIN (ETAPS).
 - January: Our paper [Challenges of Acquiring Compositional Inductive Biases via Meta-Learning](https://proceedings.mlr.press/v191/anastacio22a.html) is finally published in the ECML/PKDD Workshop on Meta-Knowledge Transfer
