@@ -10,7 +10,7 @@ redirect_from:
 
 Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow][NATH] and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
-Mentor of [Marcille](https://www.labri.fr/perso/pmarcille/).
+Mentor of [Clara Marcille](https://www.labri.fr/perso/pmarcille/).
 
 You can send me an email at `x@gmail.com` where `x = theomatricon`.
 
@@ -51,7 +51,7 @@ Current:
 - November: [Gaëtan Margueritte](https://github.com/gaetanmargueritte) is asking for more program synthesis and joined us as a research engineer until March.
 - October: I invited [Natacha Portier](https://perso.ens-lyon.fr/natacha.portier/blog/) to talk about Impostor Syndrom to PhD Students
 - September: I was at the Dagstuhl meeting on "The Futures of Reactive Synthesis" [report](https://doi.org/10.4230/DagRep.13.9.166).
-- June: I am now mentoring [Marcille](https://www.labri.fr/perso/pmarcille/).
+- June: I am now mentoring [Clara Marcille](https://www.labri.fr/perso/pmarcille/).
 - June-July: I welcomed two interns:
   - 5th June to 29th July: [Félix Yvonnet](https://github.com/Felix-Yvonnet) to work on restarts;
   - 19th June to 29th July: [Priscilla Tissot](https://fr.linkedin.com/in/priscilla-tissot-9493851b8) to work on predictions.
