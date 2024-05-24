@@ -12,7 +12,7 @@ Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeau
 I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
 Mentor of [Clara Marcille](https://www.labri.fr/perso/pmarcille/).
 
-You can send me an email at `x@gmail.com` where `x = theomatricon`.
+You can send me an email at `theomatricon@gmail.com`.
 
 **Feel free to send me a mail just to chat about some interesting work, not necessarily yours!**
 
