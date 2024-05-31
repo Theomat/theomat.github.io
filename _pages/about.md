@@ -19,7 +19,7 @@ You can send me an email at `theomatricon@gmail.com`.
 ## Research Interests
 
 - **Program Synthesis**, *Code Generation*
-- Comparative performance of algorithm performances
+- Comparative performance of algorithm performances or managing performance variability
 - Reinforcement Learning
 - Machine Learning tools that can help reduce environmental impact
 - Honestly everything's interesting there's just not enough time
@@ -28,17 +28,21 @@ You can send me an email at `theomatricon@gmail.com`.
 
 Current:
 
+- June 2-7: will be at the Dagsthul seminar on "Stochastic Games"
+- June 17: will give a talk on "Code Generation and Program Synthesis: where are we?" at a regional AI event
+- July 5: will be at the opening meeting of the LLM4Code project
 - Actively participating to the working group on psychosocial risks in my lab
-- March-April: in Rennes from March 18 to April 26 to work with [Mathieu Acher][MATHIEU] and the DiverSe team
-- April 25-26: I will be at GT DAAL in Rennes
-- June: Will be at the Dagsthul seminar on "Stochastic Games"
+- June - July: Chaimaa Radiousse is working with me on estimating mixtures of stable distributions
+- May - July: An intern Maxence is working on multi agent reinforcement learning in order to balance board games supervised by [Guillaume Lagarde][GUILLAUME], [Gabriel Bathie][GABRIEL] and I.
+- March - July: Baptiste Mouillon is working on fast approaches for LTL learning with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Gabriel Bathie][GABRIEL] and I.
 - Will defend my thesis in Oct. / Nov.
 
 2024:
 
+- April 25-26: I was at GT DAAL in Rennes
+- March-April: in Rennes from March 18 to April 26 to work with [Mathieu Acher][MATHIEU] and the DiverSe team
 - April 11: I gave a talk at 68nqrt seminar about "Scaling enumerative domain-agnostic program synthesis"
 - March 28: I gave a talk at DiverSe Coffee
-- March - June: We have an intern working on fast approaches for LTL learning
 - February - Avril: Sylvain is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Guillaume Lagarde][GUILLAUME] and me on program synthesis for reinforcement learning
 - Nov. 23 - March 24: [Gianni Padula](https://fr.linkedin.com/in/gianni-padula-8192b8223) is working with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV] and me on a new reactive synthesis algorithm
 - February: I gave a talk at Progress, a software engineering research team, on "Code Generation vs Program Synthesis"
@@ -80,6 +84,7 @@ Current:
 [GUILLAUME]: https://guillaume-lagarde.github.io/
 [MATHIEU]: https://www.mathieuacher.com/
 [PIERREV]: https://pierre-vandenhove.github.io/
+[GABRIEL]: https://perso.ens-lyon.fr/gabriel.bathie/
 [NATH]: https://games-automata-play.com/
 [ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
 [LABRI]: https://www.labri.fr/
