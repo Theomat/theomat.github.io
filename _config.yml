@@ -89,7 +89,7 @@ author:
     name              : "LaBRI"
     url               : "https://www.labri.fr/en/"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=wzFtELYAAAAJ"
   email            :  "theomatricon@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
