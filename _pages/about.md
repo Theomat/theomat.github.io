@@ -19,26 +19,29 @@ You can send me an email at `theomatricon@gmail.com`.
 ## Research Interests
 
 - **Program Synthesis**, *Code Generation*
+- Improving the software development pipeline
 - Comparative performance of algorithm performances or managing performance variability
 - Reinforcement Learning
 - Machine Learning tools that can help reduce environmental impact
-- Honestly everything's interesting there's just not enough time
+
+Honestly everything's interesting there's just not enough time but I would like to emphasize that I am more interested in research that stands the test of time (for time = some years not a few months).
 
 ## News
 
 Current:
 
-- June 2-7: will be at the Dagsthul seminar on "Stochastic Games"
-- June 17: will give a talk on "Code Generation and Program Synthesis: where are we?" at a regional AI event
-- July 5: will be at the opening meeting of the LLM4Code project
+- Will defend my thesis at the end of November
+- After defending my thesis, I will join [DiverSE][DIVERSE] as a PostDoc
 - Actively participating to the working group on psychosocial risks in my lab
-- June - July: Chaimaa Radiousse is working with me on estimating mixtures of stable distributions
-- May - July: An intern Maxence is working on multi agent reinforcement learning in order to balance board games supervised by [Guillaume Lagarde][GUILLAUME], [Gabriel Bathie][GABRIEL] and I.
-- March - July: Baptiste Mouillon is working on fast approaches for LTL learning with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Gabriel Bathie][GABRIEL] and I.
-- Will defend my thesis in Oct. / Nov.
 
 2024:
 
+- July 5: I was at the opening meeting of the LLM4Code project
+- June 2-7: I was at the Dagsthul seminar on "Stochastic Games"
+- June 17: I gave a talk on "Code Generation and Program Synthesis: where are we?" at a regional AI event
+- June - July: Chaimaa Radiousse is working with me on estimating mixtures of stable distributions
+- May - July: An intern Maxence is working on multi agent reinforcement learning in order to balance board games supervised by [Guillaume Lagarde][GUILLAUME], [Gabriel Bathie][GABRIEL] and I.
+- March - July: Baptiste Mouillon is working on fast approaches for LTL learning with [Nathanaël Fijalkow][NATH], [Pierre Vandenhove][PIERREV], [Gabriel Bathie][GABRIEL] and I.
 - April 25-26: I was at GT DAAL in Rennes
 - March-April: in Rennes from March 18 to April 26 to work with [Mathieu Acher][MATHIEU] and the DiverSe team
 - April 11: I gave a talk at 68nqrt seminar about "Scaling enumerative domain-agnostic program synthesis"
@@ -95,3 +98,4 @@ Current:
 [PSEAS-video]: https://www.youtube.com/watch?v=BO0313cajPI
 [DeepSynth-arxiv]: https://arxiv.org/abs/2110.12485
 [DeepSynth-code]: https://github.com/nathanael-fijalkow/DeepSynth/
+[DIVERSE]: https://www.inria.fr/en/diverse
