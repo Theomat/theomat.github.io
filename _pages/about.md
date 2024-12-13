@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2021, I am a PhD student at [LaBRI][LABRI], Université de Bordeaux, under the supervision of [Nathanaël Fijalkow][NATH] and was also under the supervision of [Laurent Simon](https://www.labri.fr/perso/lsimon/) until April 2022.
-I graduated from [ENSEIRB-MATMECA][ENSEIRB] in September 2021 with a major in AI.
-Mentor of [Clara Marcille](https://www.labri.fr/perso/pmarcille/).
+Starting in January 2025, I will a postdoc in the [DiverSE][DIVERSE] team in Rennes.
+I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Program Synthesis" on 10/12/2024, I was supervised by [Nathanaël Fijalkow][NATH] in [LaBRI][LABRI]. You can find my [slides](./files/slides_thesis.pdf) and my manuscript.
 
-You can send me an email at `theomatricon@gmail.com`.
+You can send me an email at `theomatricon@gmail.com`, since I am currently moving two labs please at least CC my gmail adress.
 
 **Feel free to send me a mail just to chat about some interesting work, not necessarily yours!**
 
 ## Research Interests
 
 - **Program Synthesis**, *Code Generation*
-- Improving the software development pipeline
-- Comparative performance of algorithm performances or managing performance variability
-- Reinforcement Learning
+- Performance Variability
 - Machine Learning tools that can help reduce environmental impact
 
 Honestly everything's interesting there's just not enough time but I would like to emphasize that I am more interested in research that stands the test of time (for time = some years not a few months).
@@ -30,12 +27,16 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
-- Will defend my thesis at the end of November
-- After defending my thesis, I will join [DiverSE][DIVERSE] as a PostDoc
-- Actively participating to the working group on psychosocial risks in my lab
+- Will be in Oslo for the RIPOST meeting on variability in January
+- Will give a seminar on enumeration in Links in Lille
+- Will be at the GT GLIA in Rennes
+- Will be at the GDR GPL
 
 2024:
 
+- December: Our paper on best first search for enumeration in constant delay got accepted at AAAI 2025. Joint work with [Nathanaël Fijalkow][NATH] and [Guillaume Lagarde][GUILLAUME]
+- December 10: I defended my PhD thesis! Yay~
+- November: Gave a talk at the Synthesis Days in Bordeaux
 - July 5: I was at the opening meeting of the LLM4Code project
 - June 2-7: I was at the Dagsthul seminar on "Stochastic Games"
 - June 17: I gave a talk on "Code Generation and Program Synthesis: where are we?" at a regional AI event
