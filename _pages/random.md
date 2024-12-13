@@ -22,9 +22,9 @@ Views are of course my own.
 My [ha-index](https://www.irif.fr/~haberm/haindex.html) is 80 or 81, I believe it is at least as meaningful as the h-index.
 
 I love climbing, currently I mainly do it inside, feel free to chat with me about it!
-I really like <i class="fas fa-globe" style="color:#3498db;"></i> geopolitics, I have a soft spot for romance stories <i class="fas fa-book"></i>.
+I really like <i class="fas fa-globe" style="color:#3498db;"></i> geopolitics, I have a soft spot for romance stories <i class="fas fa-book"></i>. I am also currently watching Case Closed/Detective Conan.
 I love playing games <i class="fas fa-dice"></i>, I almost never refuse playing.
 I'm currently trying to read bits of philosophy that are related to our society such as feminism for example.
 
 Did you know? I'm French yet I don't drink alcohol, I don't eat cheese nor bread...
-I have Crohn's disease.
+I have Crohn's disease and I can't eat gluten nor lactose.
