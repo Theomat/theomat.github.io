@@ -11,7 +11,7 @@ title                    : "Théo Matricon"
 title_separator          : "|"
 home_logo                : "/images/site-logo.png"
 name                     : &name "Théo Matricon"
-description              : &description "PhD Student at LaBRI"
+description              : &description "Postdoc at INRIA Rennes"
 url                      : https://theomat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Theomat/theomat.github.io"
@@ -83,16 +83,17 @@ analytics:
 author:
   name             : "Théo Matricon"
   avatar           : "theo.jpg"
-  bio              : "PhD Student"
-  location         : "Bordeaux"
+  bio              : "Postdoc"
+  location         : "Rennes"
   employer         :
-    name              : "LaBRI"
-    url               : "https://www.labri.fr/en/"
+    name              : "INRIA Rennes"
+    url               : "https://www.diverse-team.fr/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wzFtELYAAAAJ"
   email            :  "theomatricon@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
+  dblp             : "https://dblp.org/pid/303/8930.html"
   bitbucket        :
   codepen          :
   dribbble         :

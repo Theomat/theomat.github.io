@@ -1,5 +1,5 @@
 ---
-title: "Impreative Programming"
+title: "Imperative Programming"
 collection: teaching
 type: "BSC 3"
 venue: "<a href='https://enseirb-matmeca.bordeaux-inp.fr/'>ENSEIRB-MATMECA</a>"
