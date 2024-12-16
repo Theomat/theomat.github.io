@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Starting in January 2025, I will be a postdoc in the [DiverSE][DIVERSE] team in Rennes.
-I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Program Synthesis" on 10/12/2024, I was supervised by [Nathanaël Fijalkow][NATH] in [LaBRI][LABRI]. You can find my [slides](./files/slides_thesis.pdf) and my manuscript.
+I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Program Synthesis" on 10/12/2024, I was supervised by [Nathanaël Fijalkow][NATH] in [LaBRI][LABRI]. You can find my [slides](./files/slides_thesis.pdf) and my [manuscript](./files/thesis.pdf).
 
 You can send me an email at `theomatricon@gmail.com`, since I am currently moving between two labs please at least CC my gmail adress.
 
