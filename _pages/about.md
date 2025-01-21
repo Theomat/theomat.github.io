@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Starting in January 2025, I will be a postdoc in the [DiverSE][DIVERSE] team in Rennes.
+Starting in January 2025, I am a postdoc in the [DiverSE][DIVERSE] team in Rennes.
 I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Program Synthesis" on 10/12/2024, I was supervised by [Nathanaël Fijalkow][NATH] in [LaBRI][LABRI]. You can find my [slides](./files/slides_thesis.pdf) and my [manuscript](./files/thesis.pdf).
 
-You can send me an email at `theomatricon@gmail.com`, since I am currently moving between two labs please at least CC my gmail adress.
+You can send me an email at `theomatricon@gmail.com` or `theo.matricon@inria.fr`.
 
 **Feel free to send me a mail just to chat about some interesting work, not necessarily yours!**
 
@@ -27,10 +27,14 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
-- Will be in Oslo for the RIPOST meeting on variability in January
-- Will give a seminar on enumeration in Links in Lille
-- Will be at the GT GLIA in Rennes
+- Will be at the GT GLIA and Vamos in Rennes
 - Will be at the GDR GPL
+
+2025:
+
+- January: Here is a guide we wrote to [CNRS applications](./cnrs) with links to the other guides on the internet.
+- January 24: I will give a talk at the [LINKS](https://team.inria.fr/links/) seminar, at CRIStAL, in Lille on ranked enumeration of regular tree languages.
+- January: I visited [Simula](https://www.simula.no/) in Oslo, Norway for a collaboration!
 
 2024:
 

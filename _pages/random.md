@@ -16,6 +16,7 @@ Views are of course my own.
 - [Slow science](http://slow-science.org/)
 - If I have a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself. Can it find a strictly better algorithm with respect to time but with the same power?
 - What if we could thumbs up and thumbs down paper on ArXiv? Would good papers be rewarded or only marketable papers?
+- Here is a guide to [CNRS applications](./cnrs)
 
 ## Random things about me
 
