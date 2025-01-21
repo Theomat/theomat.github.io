@@ -1,3 +1,12 @@
+---
+layout: single
+title: "CNRS Application Guide"
+permalink: /cnrs/
+author_profile: true
+---
+
+{% include base_path %}
+
 CNRS Application Guide in Practice
 =
 
