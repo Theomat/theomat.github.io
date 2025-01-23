@@ -23,6 +23,27 @@ You can send me an email at `theomatricon@gmail.com` or `theo.matricon@inria.fr`
 
 Honestly everything's interesting there's just not enough time but I would like to emphasize that I am more interested in research that stands the test of time (for time = some years not a few months).
 
+## Quick info
+
+<script>
+        function decryptBase64() {
+            // Base64 encoded string (example)
+            const base64Text = "KzMzIDYgMDIgNjMgMTQgNjcK"; 
+
+            // Decode the base64 string
+            const decodedText = atob(base64Text);
+
+            // Alert the decoded text
+            alert(decodedText);
+        }
+</script>
+
+**Food intolerances**: gluten, lactose, alcohol
+
+**Phone Number**:  <button onclick="decryptBase64()">my phone number</button>
+
+
+
 ## News
 
 Current:
@@ -38,7 +59,7 @@ Current:
 
 2024:
 
-- December: Our paper on best first search for enumeration in constant delay got accepted at AAAI 2025. Joint work with [Nathanaël Fijalkow][NATH] and [Guillaume Lagarde][GUILLAUME]
+- December: Our paper on best first search for enumeration in constant delay got accepted at AAAI 2025 and was selected for an oral. Joint work with [Nathanaël Fijalkow][NATH] and [Guillaume Lagarde][GUILLAUME]
 - December 10: I defended my PhD thesis! Yay~
 - November: Gave a talk at the Synthesis Days in Bordeaux
 - July 5: I was at the opening meeting of the LLM4Code project

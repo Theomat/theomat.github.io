@@ -10,7 +10,8 @@ author_profile: true
 CNRS Application Guide in Practice
 =
 
-This guide was made with the help of two friends [Corto Mascle](https://corto-mascle.github.io/) and [Clément Legrand-Duchesne](https://johnlepoulpe.github.io/), shameless plug: if they apply for your team they will be great additions!
+This guide was made with the help of two friends [Corto Mascle](https://corto-mascle.github.io/) and [Clément Legrand-Duchesne](https://johnlepoulpe.github.io/).
+Shameless plug: I believe they have all the skills for a CR position, so if they were to join your team they would be great additions!
 
 **This guide aims to have information not already present in the following posts:**
 
@@ -22,22 +23,37 @@ This guide was made with the help of two friends [Corto Mascle](https://corto-ma
 - **Tito Nguyen [https://nguyentito.eu/](https://nguyentito.eu/) (click at the bottom of the yellow box)**
 - **Laurent Feuilloley  [https://discrete-notes.github.io/CNRS-application](https://discrete-notes.github.io/CNRS-application)**
 
-**Do ask for more files, especially from people from your field who were recently recruited\!**
+**Do ask for more files, especially from people from your field who were recently recruited!**
+
+*Note: you can aks for my files, they are not freely available because I believe they could be improved a lot. And I have yet to be recruited.*
 
 This document was last updated in January 2025.
+
+Table of content:
+
+- [General](#general)
+- [Selected Publications](#selected-publications)
+- [Resume](#resume)
+- [Activity Report](#activity-report)
+- [Research Project](#research-project)
+  - [Bonus points](#bonus-points)
+  - [Inclusion](#inclusion)
+- [Support letters](#support-letters)
 
 General
 ==
 
-Unlike you may be used to, do not do it at the last minute.  
-Also preparing your files should take precedence over other tasks, this is your final goal, you can do as much research as you like if you have a permanent position.
+Your application should not be done at the last minute.  
+Moreover it should take precedence over other tasks, this is your final goal, you can do as much research as you like if you have a permanent position.
 
-Your best bet is to ask people around.  
+Your best bet in how do have a good file is to ask around.  
 Typically people from your community will review your files and give you feedback, do note that not everyone has the same point of view and there will be disagreements, this is why it should be YOUR file.  
-Ask people that candidate before you for their files, it will be a strong baseline, and they will have plenty of advice.  
+Ask people that applied in previous years for their files, it will be a strong baseline, and they will have plenty of advice.  
 Most of the advice you get is given to you orally and depends on your community.
 
 Don’t trust the list of elements in the guide of candidates, go to the portal to register and explore the list of documents, that is the true official list.
+There is the general guide and there is the guide from section 6, the guide from section 6 takes precedence obviously.
+Use it as much as possible since it is the main source of information directly coming from the jury.
 
 One of the most important advice is to structure your documents. The structure should be visible that is:
 
@@ -46,12 +62,12 @@ One of the most important advice is to structure your documents. The structure s
 - emphasize words  
 - make paragraphs (nobody wants to read your block of words when they have quite a lot of files to read)
 
-Also remember that the reader will very likely be a person not from the domain, so ask for a review from a person who is far from your domain but can still fit in section 6\.
+Also remember that the reader will very likely be a person not from the domain, so ask for a review from a person who is far from your domain but can still fit in section 6.
 
 By the way, since it is YOUR project, you should use I.  
-Very important there is the general guide and there is the guide from section 6, the guide from section 6 takes precedence obviously. Use it as much as possible since it is the main information directly coming from them.
 
-Very important to not lie or hide information, if your publication is in a workshop associated with a conference, make it clear that it is a workshop.
+It is important to not lie or hide information, if your publication is in a workshop associated with a conference, make it clear that it is a workshop.
+Do not inflate your contribution in papers.
 
 Either in the **Resume** or in the **Activity Report** you should report all the following things:
 
@@ -67,7 +83,8 @@ Selected Publications
 ===
 
 You can select up to 7, however, if you have 8/9 publications don’t select 7 unless all of them are important. You should select at least 3 if those are not all your publications.  
-A reason to select them can be their impact, that they answer an open question but also because this enables you to easily vulgarize and reach other people, or because they translate a shift in your research interests. Some recommend selecting an A\* publication if you have one, if you have multiple it is not necessary to select them all.
+A reason to select them can be their impact, that they answer an open question but also because this enables you to easily vulgarize and reach other people, or because they translate a shift in your research interests. 
+Some recommend selecting an A\* publication if you have one, if you have multiple it is not necessary to select them all.
 
 Try to write 2-3 lines about the link between the selected publication and your research project.
 
@@ -109,7 +126,8 @@ You need to show the reader that :
 - You have a high-level view of what has been achieved  in the field
 - You have a long-term goal from which you can draw research questions
 
-It is not useful to insist on the specific problems that you may solve. The ability to solve difficult problems will not distinguish you from other candidates while having a good global view of your field will.
+It is not useful to insist on the specific problems that you may solve. 
+The ability to solve difficult problems will not distinguish you from other candidates while having a good global view of your field will.
 
 Bonus points
 =====
@@ -132,15 +150,16 @@ A good baseline for “integration into teams” is the following:
 - the team has likely funding from some projects, which you can describe (scale, national/international,…), if you can show that you merge well with those projects, it is great if not don’t try too hard.  
 - it should be somewhat clear how your research will integrate with the main topics of the team
 
-When citing people to collaborate with, people known by the jury are much more relevant
+When citing people to collaborate with, people known by the jury are much more relevant.
 
 Support letters
 ===
 
 When asking for support letters, you should join your research project.
-This is what the researchers supporting you will comment on. 
+This is what the researchers supporting you will comment on.
 If you plan on asking non-french-speaking researchers for support, it is better to write your project in English.
 
 You can ask your PhD supervisors for a letter, but their opinion will not have a lot of weight.
 But it is very important to have one of your supervisor (PhD, postdoc) give a strong recommendation for you.  
 Try to get support letters from researchers outside your lab, with good visibility, and minimize conflicts of interest.
+A strong recommendation is better than two middle-grounded ones.
