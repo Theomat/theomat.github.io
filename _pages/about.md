@@ -25,24 +25,9 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 ## Quick info
 
-<script>
-        function decryptBase64() {
-            // Base64 encoded string (example)
-            const base64Text = "KzMzIDYgMDIgNjMgMTQgNjcK"; 
-
-            // Decode the base64 string
-            const decodedText = atob(base64Text);
-
-            // Alert the decoded text
-            alert(decodedText);
-        }
-</script>
-
 **Food intolerances**: gluten, lactose, alcohol
 
-**Phone Number**:  <button onclick="decryptBase64()">my phone number</button>
-
-
+**Phone Number**:  <button id="phone_no">my phone number</button>
 
 ## News
 
@@ -115,13 +100,8 @@ Current:
 [PIERREV]: https://pierre-vandenhove.github.io/
 [GABRIEL]: https://perso.ens-lyon.fr/gabriel.bathie/
 [NATH]: https://games-automata-play.com/
-[ENSEIRB]: https://enseirb-matmeca.bordeaux-inp.fr/
 [LABRI]: https://www.labri.fr/
-[TUR]: https://www.turing.ac.uk/
 [CP21]: https://cp2021.a4cp.org/
 [PSEAS-paper]: https://doi.org/10.4230/LIPIcs.CP.2021.43
-[PSEAS-code]: https://github.com/Theomat/PSEAS
-[PSEAS-video]: https://www.youtube.com/watch?v=BO0313cajPI
 [DeepSynth-arxiv]: https://arxiv.org/abs/2110.12485
-[DeepSynth-code]: https://github.com/nathanael-fijalkow/DeepSynth/
 [DIVERSE]: https://www.inria.fr/en/diverse
