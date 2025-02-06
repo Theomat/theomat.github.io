@@ -33,11 +33,13 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
-- Will be at the GT GLIA and Vamos in Rennes
+- Applying for "CR" positions
 - Will be at the GDR GPL
 
 2025:
 
+- February: Our paper on replication of chess engine got accepted at [IST](https://www.sciencedirect.com/journal/information-and-software-technology) joint work with Axel Martin, [Mathieu Acher][MATHIEU] and [Djamel Khelladi][DJAMEL].
+- February: Gave a talk at the [GT VL & GLIA](https://gdr-gpl.cnrs.fr/?p=302) and attended [VAMOS](https://familiar-project.github.io/VaMoS2025/)
 - January: Here is a guide we wrote to [CNRS applications](./cnrs) with links to the other guides on the internet.
 - January 24: I will give a talk at the [LINKS](https://team.inria.fr/links/) seminar, at CRIStAL, in Lille on ranked enumeration of regular tree languages.
 - January: I visited [Simula](https://www.simula.no/) in Oslo, Norway for a collaboration!
@@ -97,6 +99,7 @@ Current:
 
 [GUILLAUME]: https://guillaume-lagarde.github.io/
 [MATHIEU]: https://www.mathieuacher.com/
+[DJAMEL]: https://people.irisa.fr/Djamel-Eddine.Khelladi/index.html
 [PIERREV]: https://pierre-vandenhove.github.io/
 [GABRIEL]: https://perso.ens-lyon.fr/gabriel.bathie/
 [NATH]: https://games-automata-play.com/
