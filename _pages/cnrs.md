@@ -25,7 +25,7 @@ Shameless plug: I believe they have all the skills for a CR position, so if they
 
 **Do ask for more files, especially from people from your field who were recently recruited!**
 
-*Note: you can aks for my files, they are not freely available because I believe they could be improved a lot. And I have yet to be recruited.*
+*Note: you can ask for my files, they are not freely available because I believe they could be improved a lot. And I have yet to be recruited.*
 
 This document was last updated in January 2025.
 
