@@ -17,6 +17,10 @@ You can send me an email at `theomatricon@gmail.com` or `theo.matricon@inria.fr`
 
 ## Research Interests
 
+My research so far lie in the domains of artificial intelligence, formal methods and software engineering.
+My profile lies at the intersection of these domains with the fascinating field of program synthesis.
+Here is a non exhaustive [list of things I am excited about](./looking)
+
 - **Program Synthesis**, *Code Generation*
 - Performance Variability
 - Machine Learning tools that can help reduce environmental impact
@@ -34,10 +38,15 @@ Honestly everything's interesting there's just not enough time but I would like 
 Current:
 
 - Applying for "CR" positions
-- Will be at the GDR GPL
+- June: Will be at the [GDR GPL](https://gdrgpl2025.sciencesconf.org/)
+- July: Will present our Enumeration algorithms at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
 
 2025:
 
+- March 13: I will be presenting a talk at the [ALMOST](https://www.david.uvsq.fr/equipe-almost/) team seminar in Versailles
+- March: I will be auditioned at [CNRS](https://www.cnrs.fr/fr) in Jussieu for a research position
+- March: Our paper on best first search for enumeration in constant delay was presented at AAAI 2025 by [Guillaume Lagarde][GUILLAUME] wit ha lof of interesting discussions.
+- March: I visited [Nathanaël Fijalkow][NATH] with other members of the team such as [Gabriel Bathie][GABRIEL] or [Roman Kniazev][ROMAN].
 - February: Our paper on replication of chess engine got accepted at [IST](https://www.sciencedirect.com/journal/information-and-software-technology) joint work with Axel Martin, [Mathieu Acher][MATHIEU] and [Djamel Khelladi][DJAMEL].
 - February: Gave a talk at the [GT VL & GLIA](https://gdr-gpl.cnrs.fr/?p=302) and attended [VAMOS](https://familiar-project.github.io/VaMoS2025/)
 - January: Here is a guide we wrote to [CNRS applications](./cnrs) with links to the other guides on the internet.
@@ -97,6 +106,7 @@ Current:
 - October 29, 30: Presentation at [CP 2021][CP21] of our paper: [Statistical Comparison of Algorithm Performance Through Instance Selection][PSEAS-paper].
 - October 2021: Now a PhD student at [LaBRI][LABRI].
 
+[ROMAN]: https://roman.knzv.me/
 [GUILLAUME]: https://guillaume-lagarde.github.io/
 [MATHIEU]: https://www.mathieuacher.com/
 [DJAMEL]: https://people.irisa.fr/Djamel-Eddine.Khelladi/index.html
