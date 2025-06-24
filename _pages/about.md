@@ -13,11 +13,11 @@ I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Progra
 
 You can send me an email at `theomatricon@gmail.com` (personal) or `theo.matricon@inria.fr` (work).
 
-**Feel free to send me a mail just to chat about some interesting work, not necessarily yours!**
+**Feel free to send me emails just to chat about something interesting, not necessarily yours!**
 
 ## Research Interests
 
-My research so far lie in the domains of artificial intelligence, formal methods and software engineering.
+My research so far lies in the domains of artificial intelligence, formal methods, and software engineering.
 My profile lies at the intersection of these domains with the fascinating field of program synthesis.
 Here is a non exhaustive [list of things I am excited about](./looking)
 
