@@ -11,7 +11,7 @@ redirect_from:
 Starting in January 2025, I am a postdoc in the [DiverSE][DIVERSE] team in Rennes.
 I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Program Synthesis" on 10/12/2024, I was supervised by [Nathanaël Fijalkow][NATH] in [LaBRI][LABRI]. You can find my [slides](./files/slides_thesis.pdf) and my [manuscript](./files/thesis.pdf).
 
-You can send me an email at `theomatricon@gmail.com` or `theo.matricon@inria.fr`.
+You can send me an email at `theomatricon@gmail.com` (personal) or `theo.matricon@inria.fr` (work).
 
 **Feel free to send me a mail just to chat about some interesting work, not necessarily yours!**
 
@@ -37,12 +37,20 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
-- Applying for "CR" positions
-- June: Will be at the [GDR GPL](https://gdrgpl2025.sciencesconf.org/)
-- July: Will present our Enumeration algorithms at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
+- Applying for "CR" (researcher) positions
+- 2025 in research for transparency:
+  - submitted: 3 confs 1 journal
+  - rejected: 2 confs
+  - resumbitted: 2 confs
 
 2025:
 
+- July - August: Olivier Henry is doing an internship to work on adapting enumeration algorithms to be memoryless and parallelizable
+- July September: [Mattéo Renzo](https://fr.linkedin.com/in/matt%C3%A9o-renzo-553b0b320) is doing an internship co-supervised with [Mathieu Acher][MATHIEU] on replicability of data analysis results
+- July 2-4: Will present EcoSearch at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
+- June 16-20: Visited [Simula](https://www.simula.no/) in Oslo, Norway to collaborate with [Helge Spieker](https://hspieker.de/) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud)
+- June 9-13: Visited my old team in Bordeaux for collaboration and to also assist to the PhD Defense of [Gabriel Bathie][GABRIEL]
+- June - September: Thibault Chanus is doing an intership on LLM agents and software reproducibility co-supervised with [Mathieu Acher][MATHIEU]
 - March 13: I will be presenting a talk at the [ALMOST](https://www.david.uvsq.fr/equipe-almost/) team seminar in Versailles
 - March: I will be auditioned at [CNRS](https://www.cnrs.fr/fr) in Jussieu for a research position
 - March: Our paper on best first search for enumeration in constant delay was presented at AAAI 2025 by [Guillaume Lagarde][GUILLAUME] wit ha lof of interesting discussions.
