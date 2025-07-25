@@ -45,6 +45,8 @@ Current:
 
 2025:
 
+- August: PC for AAAI26
+- 24 July: Gave an talk for our interns on what research is and and introduction to academia and PhD in my team.
 - July - August: Olivier Henry is doing an internship to work on adapting enumeration algorithms to be memoryless and parallelizable
 - July September: [Mattéo Renzo](https://fr.linkedin.com/in/matt%C3%A9o-renzo-553b0b320) is doing an internship co-supervised with [Mathieu Acher][MATHIEU] on replicability of data analysis results
 - July 2-4: Will present EcoSearch at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
