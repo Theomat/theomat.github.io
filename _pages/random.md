@@ -13,7 +13,7 @@ Views are of course my own.
 
 These "short papers" are not fully publication ready in the sense that they might be missing some related works and context yet the results are interesting.
 
-- [Complexity of Optimal Code Refactoring](./files/unpublished_refactoring_complexity.pdf)
+- [Complexity of Optimal Code Refactoring](https://theomat.github.io/files/unpublished_refactoring_complexity.pdf)
 
 ## Research related
 
