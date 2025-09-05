@@ -40,13 +40,14 @@ Current:
 - Applying for "CR" (researcher) positions
 - 2025 in research for transparency:
   - submitted: 3 confs 1 journal
-  - rejected: 2 confs
+  - rejected: 3 confs
   - resumbitted: 2 confs
 
 2025:
 
+- September 1-15: [Marie Anastacio](https://scholar.google.com/citations?user=S0aUEOEAAAAJ) and [Ashlin Iser](https://ae.iti.kit.edu/3986.php) are visiting me to collaborate on sustainable competitions
 - August: PC for AAAI26
-- 24 July: Gave an talk for our interns on what research is and and introduction to academia and PhD in my team.
+- 24 July: Gave an talk for our interns on what research is and and introduction to academia and PhD in my team
 - July - August: Olivier Henry is doing an internship to work on adapting enumeration algorithms to be memoryless and parallelizable
 - July September: [Mattéo Renzo](https://fr.linkedin.com/in/matt%C3%A9o-renzo-553b0b320) is doing an internship co-supervised with [Mathieu Acher][MATHIEU] on replicability of data analysis results
 - July 2-4: Will present EcoSearch at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
