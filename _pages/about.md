@@ -39,7 +39,7 @@ Current:
 
 - Applying for "CR" (researcher) positions
 - 2025 in research for transparency:
-  - submitted: 3 confs 1 journal
+  - submitted: 3 confs 2 journal
   - rejected: 3 confs
   - resumbitted: 2 confs
 
