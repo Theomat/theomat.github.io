@@ -37,11 +37,13 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
+- In November I will be visiting [SPIRALS](https://www.inria.fr/fr/spirals)
 - Applying for "CR" (researcher) positions
 - 2025 in research for transparency:
   - submitted: 3 confs 2 journal
   - rejected: 3 confs
-  - resumbitted: 2 confs
+  - resubmitted: 2 confs
+  - accepted: 1 conf
 
 2025:
 
