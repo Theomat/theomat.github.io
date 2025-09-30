@@ -21,9 +21,10 @@ My research so far lies in the domains of artificial intelligence, formal method
 My profile lies at the intersection of these domains with the fascinating field of program synthesis.
 Here is a non exhaustive [list of things I am excited about](./looking)
 
-- **Program Synthesis**, *Code Generation*
-- Performance Variability
-- Machine Learning tools that can help reduce environmental impact
+- Benchmarking ([Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716))
+- **Program Synthesis**, *Code Generation* ([EcoSearch: A Constant-Delay Best-First Search Algorithm for Program Synthesis](https://arxiv.org/abs/2412.17330))
+- Performance Variability ([Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790))
+- Machine Learning tools that can help reduce environmental impact ([Statistical comparison of algorithm performance through instance selection](https://cnrs.hal.science/hal-03800492/))
 
 Honestly everything's interesting there's just not enough time but I would like to emphasize that I am more interested in research that stands the test of time (for time = some years not a few months).
 
@@ -42,10 +43,11 @@ Current:
 - 2025 in research for transparency:
   - submitted: 3 confs 2 journal
   - rejected: 3 confs
-  - resubmitted: 2 confs
+  - resubmitted: 3 confs
   - accepted: 1 conf
 
 2025:
+
 
 - September 1-15: [Marie Anastacio](https://scholar.google.com/citations?user=S0aUEOEAAAAJ) and [Ashlin Iser](https://ae.iti.kit.edu/3986.php) are visiting me to collaborate on sustainable competitions
 - August: PC for AAAI26
