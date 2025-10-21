@@ -18,11 +18,9 @@ You can send me an email at `theomatricon@gmail.com` (personal) or `theo.matrico
 ## Research Interests
 
 My research so far lies in the domains of artificial intelligence, formal methods, and software engineering.
-My profile lies at the intersection of these domains with the fascinating field of program synthesis.
-Here is a non exhaustive [list of things I am excited about](./looking)
 
 - Benchmarking ([Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716))
-- **Program Synthesis**, *Code Generation* ([EcoSearch: A Constant-Delay Best-First Search Algorithm for Program Synthesis](https://arxiv.org/abs/2412.17330))
+- Program Synthesis, Code Generation ([EcoSearch: A Constant-Delay Best-First Search Algorithm for Program Synthesis](https://arxiv.org/abs/2412.17330))
 - Performance Variability ([Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790))
 - Machine Learning tools that can help reduce environmental impact ([Statistical comparison of algorithm performance through instance selection](https://cnrs.hal.science/hal-03800492/))
 
