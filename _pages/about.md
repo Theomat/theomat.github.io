@@ -39,14 +39,15 @@ Current:
 - In November I will be visiting [SPIRALS](https://www.inria.fr/fr/spirals)
 - Applying for "CR" (researcher) positions
 - 2025 in research for transparency:
-  - submitted: 3 confs 2 journal
+  - newly submitted: 3 confs 3 journals
   - rejected: 3 confs
   - resubmitted: 3 confs
+  - in review: 2 confs 3 journals
   - accepted: 1 conf
 
 2025:
 
-
+- October-May: Piero Terier is doing an ENS Rennes project with me on the delay of enumeration of words and trees given a valid multiset of transitions of an automaton
 - September 1-15: [Marie Anastacio](https://scholar.google.com/citations?user=S0aUEOEAAAAJ) and [Ashlin Iser](https://ae.iti.kit.edu/3986.php) are visiting me to collaborate on sustainable competitions
 - August: PC for AAAI26
 - 24 July: Gave an talk for our interns on what research is and and introduction to academia and PhD in my team
@@ -55,10 +56,10 @@ Current:
 - July 2-4: Will present EcoSearch at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
 - June 16-20: Visited [Simula](https://www.simula.no/) in Oslo, Norway to collaborate with [Helge Spieker](https://hspieker.de/) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud)
 - June 9-13: Visited my old team in Bordeaux for collaboration and to also assist to the PhD Defense of [Gabriel Bathie][GABRIEL]
-- June - September: Thibault Chanus is doing an intership on LLM agents and software reproducibility co-supervised with [Mathieu Acher][MATHIEU]
+- June - September: Thibault Chanus is doing an internship on LLM agents and software reproducibility co-supervised with [Mathieu Acher][MATHIEU]
 - March 13: I will be presenting a talk at the [ALMOST](https://www.david.uvsq.fr/equipe-almost/) team seminar in Versailles
 - March: I will be auditioned at [CNRS](https://www.cnrs.fr/fr) in Jussieu for a research position
-- March: Our paper on best first search for enumeration in constant delay was presented at AAAI 2025 by [Guillaume Lagarde][GUILLAUME] wit ha lof of interesting discussions.
+- March: Our paper on best first search for enumeration in constant delay was presented at AAAI 2025 by [Guillaume Lagarde][GUILLAUME] with a lof of interesting discussions.
 - March: I visited [Nathanaël Fijalkow][NATH] with other members of the team such as [Gabriel Bathie][GABRIEL] or [Roman Kniazev][ROMAN].
 - February: Our paper on replication of chess engine got accepted at [IST](https://www.sciencedirect.com/journal/information-and-software-technology) joint work with Axel Martin, [Mathieu Acher][MATHIEU] and [Djamel Khelladi][DJAMEL].
 - February: Gave a talk at the [GT VL & GLIA](https://gdr-gpl.cnrs.fr/?p=302) and attended [VAMOS](https://familiar-project.github.io/VaMoS2025/)
