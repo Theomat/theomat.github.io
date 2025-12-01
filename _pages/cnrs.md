@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 This guide was made with the help of two friends [Corto Mascle](https://corto-mascle.github.io/) and [Clément Legrand-Duchesne](https://johnlepoulpe.github.io/).
 
 **This guide aims to have information not already present in the following posts:**
@@ -19,6 +18,8 @@ This guide was made with the help of two friends [Corto Mascle](https://corto-ma
 
 - **Tito Nguyen [https://nguyentito.eu/](https://nguyentito.eu/) (click at the bottom of the yellow box)**
 - **Laurent Feuilloley  [https://discrete-notes.github.io/CNRS-application](https://discrete-notes.github.io/CNRS-application)**
+
+**Link to the notes on the preparation from Gdr SciLog:** [https://gdr-gpl.cnrs.fr/?p=545](https://gdr-gpl.cnrs.fr/?p=545)
 
 **Do ask for more files, especially from people from your field who were recently recruited!**
 
@@ -183,17 +184,17 @@ This describes shortly how the audition went in 2025, it tries in this paragraph
 You will receive a letter for the audition.
 It stipulates that unless exceptional circumstances with a doctor's note, not being present or being late voids your application.
 You wait in a corridor until they call your name.
-You enter a room with the jury seated at desks placed in a U pattern.
+You enter a room with the jury seated at desks placed in a U-shaped pattern.
 For objectivity, the members of the jury are very neutral and try to show the least emotion.
 When you enter the room, you have to sign a paper, your slides will already be prepared, you are given a remote.
 Visible to you is a tablet indicating a countdown of the time that you have left for the audition.
-The president of the jury will stop you at 20min exactly (I don't remember exactly the time left for the presentations), you cannot go over the time.
+The president of the jury will stop you at 20min exactly (I don't remember exactly the time given for the presentations), you cannot go over the time.
 Then three different members of the jury will ask you questions, they will briefly say hello, then start with a question.
 The questions will be stopped when there is no time left.
 I don't know what happens if you exhaust all of their questions.
-Unless you are first or second of the session, a few members of the jury won't look at you because they  are writing down the reports of the previous candidates.
+Unless you are first or second of the session, a few members of the jury won't look at you because they will be writing down the reports of the previous candidates.
 
-Thi part is subjective.
+This part is subjective.
 I was told that the audition is to test you, that is you should be able to talk the research talk.
-In other words, you should be able to have accurate understandable answers yet quick enough so that you can exhaust most of the questions fired by the three members of the jury.
-Typically, the members of the jury that are asking questions are the ones who fought for you to be there, so despite some questions that can put you off, these questions should actually be opportunities for you to score points with the other part of the jury.
+In other words, you should be able to have short yet accurate answers so that you can exhaust most of the questions fired by the three members of the jury.
+Typically, the members of the jury that are asking questions are the ones who fought for you to be there, so despite some questions that can put you off, these questions should actually be opportunities for you to score points with the other members of the jury.
