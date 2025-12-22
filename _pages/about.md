@@ -36,35 +36,39 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
-- In November I will be visiting [SPIRALS](https://www.inria.fr/fr/spirals)
 - Applying for "CR" (researcher) positions
+- 2026 in research for transparency:
+  - from 2025:
+    - in review: 1 conf 3 journals
+
+2025:
+
 - 2025 in research for transparency:
   - newly submitted: 3 confs 3 journals
   - rejected: 3 confs
   - resubmitted: 3 confs
-  - in review: 2 confs 3 journals
-  - accepted: 1 conf
-
-2025:
-
-- October-May: Piero Terier is doing an ENS Rennes project with me on the delay of enumeration of words and trees given a valid multiset of transitions of an automaton
-- September 1-15: [Marie Anastacio](https://scholar.google.com/citations?user=S0aUEOEAAAAJ) and [Ashlin Iser](https://ae.iti.kit.edu/3986.php) are visiting me to collaborate on sustainable competitions
-- August: PC for AAAI26
-- 24 July: Gave an talk for our interns on what research is and and introduction to academia and PhD in my team
-- July - August: Olivier Henry is doing an internship to work on adapting enumeration algorithms to be memoryless and parallelizable
-- July September: [Mattéo Renzo](https://fr.linkedin.com/in/matt%C3%A9o-renzo-553b0b320) is doing an internship co-supervised with [Mathieu Acher][MATHIEU] on replicability of data analysis results
-- July 2-4: Will present EcoSearch at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/)
-- June 16-20: Visited [Simula](https://www.simula.no/) in Oslo, Norway to collaborate with [Helge Spieker](https://hspieker.de/) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud)
-- June 9-13: Visited my old team in Bordeaux for collaboration and to also assist to the PhD Defense of [Gabriel Bathie][GABRIEL]
-- June - September: Thibault Chanus is doing an internship on LLM agents and software reproducibility co-supervised with [Mathieu Acher][MATHIEU]
-- March 13: I will be presenting a talk at the [ALMOST](https://www.david.uvsq.fr/equipe-almost/) team seminar in Versailles
-- March: I will be auditioned at [CNRS](https://www.cnrs.fr/fr) in Jussieu for a research position
+  - in review: 1 conf 3 journals
+  - accepted: 2 confs
+- December: Our paper [LTLf Learning Meets Boolean Set Cover](https://arxiv.org/abs/2509.24616) got accepted at [TACAS 2026](https://etaps.org/2026/conferences/tacas/).
+- November: I had the pleasure to visit [SPIRALS](https://team.inria.fr/spirals/) and talk with many of its members!
+- October-May: Piero Terier is doing an ENS Rennes project with me on the delay of enumeration of words and trees given a valid multiset of transitions of an automaton.
+- September 1-15: [Marie Anastacio](https://scholar.google.com/citations?user=S0aUEOEAAAAJ) and [Ashlin Iser](https://ae.iti.kit.edu/3986.php) are visiting me to collaborate on sustainable competitions.
+- August: PC for AAAI26.
+- 24 July: Gave an talk for our interns on what research is and and introduction to academia and PhD in my team.
+- July - August: Olivier Henry is doing an internship to work on adapting enumeration algorithms to be memoryless and parallelizable.
+- July September: [Mattéo Renzo](https://fr.linkedin.com/in/matt%C3%A9o-renzo-553b0b320) is doing an internship co-supervised with [Mathieu Acher][MATHIEU] on replicability of data analysis results.
+- July 2-4: I presented EcoSearch at [CNIA](https://pfia2025.u-bourgogne.fr/conferences/cnia/).
+- June 16-20: Visited [Simula](https://www.simula.no/) in Oslo, Norway to collaborate with [Helge Spieker](https://hspieker.de/) and [Arnaud Gotlieb](https://www.simula.no/people/arnaud).
+- June 9-13: Visited my old team in Bordeaux for collaboration and to also assist to the PhD Defense of [Gabriel Bathie][GABRIEL].
+- June - September: Thibault Chanus is doing an internship on LLM agents and software reproducibility co-supervised with [Mathieu Acher][MATHIEU].
+- March 13: I presented a talk at the [ALMOST](https://www.david.uvsq.fr/equipe-almost/) team seminar in Versailles.
+- March: I was auditioned at [CNRS](https://www.cnrs.fr/fr) in Jussieu for a research position.
 - March: Our paper on best first search for enumeration in constant delay was presented at AAAI 2025 by [Guillaume Lagarde][GUILLAUME] with a lof of interesting discussions.
 - March: I visited [Nathanaël Fijalkow][NATH] with other members of the team such as [Gabriel Bathie][GABRIEL] or [Roman Kniazev][ROMAN].
 - February: Our paper on replication of chess engine got accepted at [IST](https://www.sciencedirect.com/journal/information-and-software-technology) joint work with Axel Martin, [Mathieu Acher][MATHIEU] and [Djamel Khelladi][DJAMEL].
 - February: Gave a talk at the [GT VL & GLIA](https://gdr-gpl.cnrs.fr/?p=302) and attended [VAMOS](https://familiar-project.github.io/VaMoS2025/)
 - January: Here is a guide we wrote to [CNRS applications](./cnrs) with links to the other guides on the internet.
-- January 24: I will give a talk at the [LINKS](https://team.inria.fr/links/) seminar, at CRIStAL, in Lille on ranked enumeration of regular tree languages.
+- January 24: I gave a talk at the [LINKS](https://team.inria.fr/links/) seminar, at CRIStAL, in Lille on ranked enumeration of regular tree languages.
 - January: I visited [Simula](https://www.simula.no/) in Oslo, Norway for a collaboration!
 
 2024:
