@@ -39,7 +39,8 @@ Current:
 - Applying for "CR" (researcher) positions
 - 2026 in research for transparency:
   - from 2025:
-    - in review: 1 conf 3 journals
+    - in review: 0 conf 3 journals
+    - accepted: 1 conf
 
 2025:
 
