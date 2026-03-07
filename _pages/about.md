@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Starting in January 2025, I am a postdoc in the [DiverSE][DIVERSE] team in Rennes.
+I started a postdoc in the [DiverSE][DIVERSE] team in Rennes in January 2025.
 I defended my PhD thesis entitled "Scaling Domain Agnostic Techniques for Program Synthesis" on 10/12/2024, I was supervised by [Nathanaël Fijalkow][NATH] in [LaBRI][LABRI]. You can find my [slides](./files/slides_thesis.pdf) and my [manuscript](./files/thesis.pdf).
 
 You can send me an email at `theomatricon@gmail.com` (personal) or `theo.matricon@inria.fr` (work).
@@ -41,6 +41,12 @@ Current:
   - from 2025:
     - in review: 0 conf 3 journals
     - accepted: 1 conf
+
+2026:
+
+- December: plan to attend a workshop in Aussois
+- June: plan to attend GDR SciLog
+- March-April: I will be auditioning for a CR position at CNRS
 
 2025:
 

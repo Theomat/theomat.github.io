@@ -17,8 +17,8 @@ These "short papers" are not fully publication ready in the sense that they migh
 
 ## Research related
 
+- [Launching Your First Research Lab: Practical Guidance on Planning Your Research Program, Building a Team, and Launching a Sustainable Lab](https://zenodo.org/records/18883545) simple but effective guide
 - Research for Science should be open-access, see [Plan S](https://www.coalition-s.org/why-plan-s/) and an interesting article in French about [publication models](https://frederichelein.wordpress.com/2019/10/20/le-piege-des-accords-transformants/).
-- Do you know [knowledge clustering](https://github.com/remimorvan/Knowledge-Clustering) perhaps it will change the way you write papers?
 - [Slow science](http://slow-science.org/)
 - If I had a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself. Can it find a strictly better algorithm with respect to time but with the same power?
 - What if we could thumbs up and thumbs down paper on ArXiv? Would good papers be rewarded or only marketable papers?
