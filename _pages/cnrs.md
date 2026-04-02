@@ -23,7 +23,9 @@ This guide was made with the help of two friends [Corto Mascle](https://corto-ma
 
 **Do ask for more files, especially from people from your field who were recently recruited!**
 
-This document was last updated in October 2025.
+Here are my [2026 slides](../files/slides_cnrs26.pdf).
+
+This document was last updated in April 2026.
 
 Table of content:
 
@@ -171,6 +173,8 @@ You can have from one to three recommendations, two seems good enough.
 Feedback
 ===
 
+**Note that this was during the previous mandate, I do not know the stance of the current mandate.**
+
 After a failed year, you might want to get feedback to improve for next year.
 It is near impossible to get any official feedback from the jury, I mean you will get some but not anything that will be useful to you.
 Instead, after the second week of September you can send a mail to the president of the jury to ask for informal feedback.
@@ -180,6 +184,20 @@ Though you need to remember that every year, you start from scratch again, for e
 The Audition
 ==
 
+**2026 Audition: ??, new jury**:
+It's mostly a difference between this audition and last year's, it is mostly subjective.
+First, it seems that there a lot more mention about possible disabilities for the main audition, so it feels at least way simpler to ask for it.
+They have a specific chair and a table for you to wait.
+A few minutes before your audition a member of the jury comes smiling and tells you what hardware you will get access to, this member takes your USB key with your slides on it. (If you have a cute USB key, they'll compliment you :D)
+A few minutes later, another member comes looking for you with your id card then you come into the audition room.
+This jury contrarily to the last showed a lot of emotions, it was nice to see their smile when I made mistakes pronouncing words due to stress.
+To be fair, it felt a lot more human.
+Contrarily, to the previous jury a lof of different people ask questions.
+So for me I had to jump between some questions on more formal method stuff, some on AI and some on software engineering.
+It felt like the jury showed genuine interest in understanding what you are trying to do.
+It felt more like a research presentation than an audition.
+
+**2025 Audition: Unranked, previous jury**:
 This describes shortly how the audition went in 2025, it tries in this paragraph to stay very factual.
 You will receive a letter for the audition.
 It stipulates that unless exceptional circumstances with a doctor's note, not being present or being late voids your application.
