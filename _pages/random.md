@@ -27,7 +27,7 @@ These "short papers" are not fully publication ready in the sense that they migh
 
 ## Random things about me
 
-My [ha-index](https://www.irif.fr/~haberm/haindex.html) is 80 or 81, I believe it is at least as meaningful as the h-index.
+My [ha-index](https://www.irif.fr/~haberm/haindex.html) is 80 or 81 and my [ape index](https://en.wikipedia.org/wiki/Ape_index) is 9, I believe these are at least as meaningful as the h-index.
 
 I love climbing, currently I mainly do it inside, feel free to chat with me about it!
 

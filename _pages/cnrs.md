@@ -52,7 +52,7 @@ Ask people that applied in previous years for their files, it will be a strong b
 Most of the advice you get is given to you orally and depends on your community.
 
 Don’t trust the list of elements in the guide of candidates, go to the portal to register and explore the list of documents, that is the true official list.
-There is the general guide and there is the guide from section 6, the guide from section 6 takes precedence obviously.
+There is the general guide and there is the guide from section 2, the guide from the section takes precedence obviously.
 Use it as much as possible since it is the main source of information directly coming from the jury.
 
 One of the most important advice is to structure your documents. The structure should be visible that is:
@@ -63,7 +63,7 @@ One of the most important advice is to structure your documents. The structure s
 - make paragraphs (nobody wants to read your block of words when they have quite a lot of files to read)
 - figures, tables can be great but might use too much space, this is a trade-off
 
-Also remember that the reader will very likely be a person not from the domain, so ask for a review from a person who is far from your domain but can still fit in section 6.
+Also remember that the reader will very likely be a person not from the domain, so ask for a review from a person who is far from your domain but can still fit in section 2.
 
 By the way, since it is YOUR project, you should use I.  
 
@@ -137,7 +137,7 @@ Bonus points
 
 - Show how your project is integrated into the challenges (fr: grands défis) of CNRS  
 - No “working tasks” these should be “axes”, two axes are great\!  
-- Follow the recommended lengths of the section 6  
+- Follow the recommended lengths of the section 2  
 - You can include figures (I don’t believe they count towards the length)  
 - The jury really like candidates who have seriously thought about their research project, showing that it is reachable and in the question part showing why some approaches are not relevant for example.
 - If you can guess who from your domain will read your work, try to cite the papers/authors they usually cite
@@ -184,7 +184,7 @@ Though you need to remember that every year, you start from scratch again, for e
 The Audition
 ==
 
-**2026 Audition: ??, new jury**:
+**2026 Audition: Unranked, new jury**:
 It's mostly a difference between this audition and last year's, it is mostly subjective.
 First, it seems that there a lot more mention about possible disabilities for the main audition, so it feels at least way simpler to ask for it.
 They have a specific chair and a table for you to wait.
