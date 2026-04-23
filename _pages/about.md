@@ -38,7 +38,7 @@ Current:
 
 - Applying for "CR" (researcher) positions
 - 2026 in research for transparency:
-  - newly submitted: 1 conf
+  - newly submitted: 1 conf 1 journal
   - from 2025:
     - in review: 0 conf 3 journals
     - accepted: 1 conf
@@ -46,7 +46,7 @@ Current:
 2026:
 
 - December: plan to attend a workshop in Aussois
-- June: plan to attend GDR SciLog
+- June 1-4: I will be at GDR SciLog
 - April: Our paper [Promises, Perils, and (Timely) Heuristics for Mining Coding  Agent Activity](https://arxiv.org/abs/2601.18345) got a Distinguished Paper Award at MSR!
 - March-April: I was auditioned at CNRS in section 2 for full research position
 
