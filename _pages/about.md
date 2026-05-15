@@ -43,13 +43,16 @@ Current:
   - in review: 1 journal
   - accepted: 1 conf
   - from 2025:
-    - in review: 0 conf 3 journals (2 major 1 minor)
-    - accepted: 1 conf
+    - in review: 0 conf 1 journal (1 major)
+    - accepted: 1 conf 2 journal
 
 2026:
 
 - December: plan to attend a workshop in Aussois
 - June 1-4: I will be at [GDR SciLog](https://scilog2026.fr/)
+- May 15: Our paper [Agentic Much? Adoption of Coding Agents on GitHub](https://arxiv.org/abs/2601.18341) got accepted at <a href='https://dl.acm.org/journal/tosem'>TOSEM</a>
+- May-June: I am artifact Evaluation Chair for [SLE](https://conf.researchr.org/home/sle-2026)
+- May 13: Our paper Instance selection methods in automated algorithm configuration got accepted at [EJAI](https://journals.sagepub.com/home/eai)
 - May 3: Our work Sustainable Benchmarking Tool got accepted at [SAT 26](https://satisfiability.org/SAT26/index.html)
 - April: Our paper [Promises, Perils, and (Timely) Heuristics for Mining Coding  Agent Activity](https://arxiv.org/abs/2601.18345) got a Distinguished Paper Award at [MSR](https://conf.researchr.org/series/msr)!
 - March-April: I was auditioned at CNRS in section 2 for a full research position.
