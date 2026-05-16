@@ -22,6 +22,7 @@ My research so far lies in the domains of artificial intelligence, formal method
 - Benchmarking ([Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716))
 - Program Synthesis, Code Generation ([EcoSearch: A Constant-Delay Best-First Search Algorithm for Program Synthesis](https://arxiv.org/abs/2412.17330))
 - Performance Variability ([Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790))
+- Empirical Research ([Agentic Much? Adoption of Coding Agents on GitHub](https://arxiv.org/pdf/2601.18341))
 - Machine Learning tools that can help reduce environmental impact ([Statistical comparison of algorithm performance through instance selection](https://cnrs.hal.science/hal-03800492/))
 
 Honestly everything's interesting there's just not enough time but I would like to emphasize that I am more interested in research that stands the test of time (for time = some years not a few months).
@@ -43,13 +44,14 @@ Current:
   - in review: 1 journal
   - accepted: 1 conf
   - from 2025:
-    - in review: 0 conf 1 journal (1 major)
+    - in review: 0 conf 0 journal
     - accepted: 1 conf 2 journal
+    - rejected: 1 journal
 
 2026:
 
 - December: plan to attend a workshop in Aussois
-- June 1-4: I will be at [GDR SciLog](https://scilog2026.fr/)
+- June 1-4: I will be at [GDR SciLog](https://scilog2026.fr/), I will be presenting our work [Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790).
 - May 15: Our paper [Agentic Much? Adoption of Coding Agents on GitHub](https://arxiv.org/abs/2601.18341) got accepted at <a href='https://dl.acm.org/journal/tosem'>TOSEM</a>
 - May-June: I am artifact Evaluation Chair for [SLE](https://conf.researchr.org/home/sle-2026)
 - May 13: Our paper Instance selection methods in automated algorithm configuration got accepted at [EJAI](https://journals.sagepub.com/home/eai)
