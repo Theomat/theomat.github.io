@@ -17,12 +17,12 @@ These "short papers" are not fully publication ready in the sense that they migh
 
 ## Research related
 
+- Here is a guide to [CNRS applications](../cnrs)
 - [Launching Your First Research Lab: Practical Guidance on Planning Your Research Program, Building a Team, and Launching a Sustainable Lab](https://zenodo.org/records/18883545) simple but effective guide
 - Research for Science should be open-access, see [Plan S](https://www.coalition-s.org/why-plan-s/) and an interesting article in French about [publication models](https://frederichelein.wordpress.com/2019/10/20/le-piege-des-accords-transformants/).
 - [Slow science](http://slow-science.org/)
 - If I had a powerful program synthesis algorithm, I'd ask it to generate a program synthesis algorithm and see if it finds itself. Can it find a strictly better algorithm with respect to time but with the same power?
 - What if we could thumbs up and thumbs down paper on ArXiv? Would good papers be rewarded or only marketable papers?
-- Here is a guide to [CNRS applications](../cnrs)
 - [French] [Manifeste pour une affiliation commune](https://pageperso.lis-lab.fr/~sylvain.sene/affiliation.html)
 
 ## Random things about me

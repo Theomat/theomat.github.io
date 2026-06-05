@@ -29,7 +29,7 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 ## Quick info
 
-**Food intolerances**: gluten, lactose, alcohol
+**Food intolerances**: gluten, lactose, alcohol, mushrooms
 
 **Phone Number**:  <button id="phone_no">my phone number</button>
 
@@ -41,17 +41,21 @@ Current:
 - 2026 in research for transparency:
   - newly submitted: 1 conf 1 journal
   - rejected: none so far :D
-  - in review: 1 journal
-  - accepted: 1 conf
+  - in review: nothing
+  - accepted: 1 conf 1 journal
   - from 2025:
     - in review: 0 conf 0 journal
     - accepted: 1 conf 2 journal
     - rejected: 1 journal
+    - to resubmit: 1 journal
 
 2026:
 
 - December: plan to attend a workshop in Aussois
-- June 1-4: I will be at [GDR SciLog](https://scilog2026.fr/), I will be presenting our work [Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790).
+- June 23-24: I will attend the [Simula](https://www.simula.no/) workshop in Paris
+- June : I will be auditioned at CNRS in section 2 for a full research position (RQTH).
+- June : I will be auditioned at INRIA as for an ISFP position.
+- June 1-4: I was at [GDR SciLog](https://scilog2026.fr/), and presented our work [Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790).
 - May 15: Our paper [Agentic Much? Adoption of Coding Agents on GitHub](https://arxiv.org/abs/2601.18341) got accepted at <a href='https://dl.acm.org/journal/tosem'>TOSEM</a>
 - May-June: I am artifact Evaluation Chair for [SLE](https://conf.researchr.org/home/sle-2026)
 - May 13: Our paper Instance selection methods in automated algorithm configuration got accepted at [EJAI](https://journals.sagepub.com/home/eai)
