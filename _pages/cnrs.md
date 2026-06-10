@@ -13,6 +13,7 @@ This guide was made with the help of two friends [Corto Mascle](https://corto-ma
 
 - **Nathanaël Fijalkow’s advice [https://games-automata-play.com/blog/applying\_cnrs/](https://games-automata-play.com/blog/applying_cnrs/)**  
 - **Antoine Amarilli’s advice [https://a3nm.net/work/applications/](https://a3nm.net/work/applications/)**
+- **Maturin Massias' advice [https://mathurinm.github.io/cnrs_inria_advice/](https://mathurinm.github.io/cnrs_inria_advice/)**
 
 **Other people kindly made their application files available online :**
 
