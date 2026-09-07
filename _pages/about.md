@@ -37,24 +37,14 @@ Honestly everything's interesting there's just not enough time but I would like 
 
 Current:
 
-- Applying for "CR" (researcher) positions
-- 2026 in research for transparency:
-  - newly submitted: 1 conf 3 journal
-  - rejected: none so far :D
-  - in review: 2 journal
-  - accepted: 1 conf 1 journal
-  - from 2025:
-    - in review: 0 conf 0 journal
-    - accepted: 1 conf 2 journal
-    - rejected: 1 journal
-    - to resubmit: 1 journal
+- I am now moving to industry to look for different kind of projects!
 
 2026:
 
 - December: plan to attend a workshop in Aussois
-- June 23-24: I will attend the [Simula](https://www.simula.no/) workshop in Paris
-- June : I will be auditioned at CNRS in section 2 for a full research position (RQTH).
-- June : I will be auditioned at INRIA as for an ISFP position.
+- June 23-24: I attended the [Simula](https://www.simula.no/) workshop in Paris
+- June : I auditioned at CNRS in section 2 for a full research position (RQTH).
+- June : I auditioned at INRIA as for an ISFP position.
 - June 1-4: I was at [GDR SciLog](https://scilog2026.fr/), and presented our work [Prompting for Performance: Exploring LLMs for Configuring Software](https://arxiv.org/abs/2507.09790).
 - May 15: Our paper [Agentic Much? Adoption of Coding Agents on GitHub](https://arxiv.org/abs/2601.18341) got accepted at <a href='https://dl.acm.org/journal/tosem'>TOSEM</a>
 - May-June: I am artifact Evaluation Chair for [SLE](https://conf.researchr.org/home/sle-2026)
